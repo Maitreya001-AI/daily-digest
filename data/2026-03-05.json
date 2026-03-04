@@ -1,0 +1,303 @@
+{
+  "date": "2026-03-05",
+  "generatedAt": "2026-03-04T16:38:51.413Z",
+  "cards": [
+    {
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "source": "Hacker News",
+      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "domain": "AI/Tech",
+      "summary": "Motorola GrapheneOS devices will be bootloader unlockable/relockable — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 1054.",
+      "rank": 1
+    },
+    {
+      "title": "Apple Introduces MacBook Neo",
+      "source": "Hacker News",
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "domain": "AI/Tech",
+      "summary": "Apple Introduces MacBook Neo — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 466.",
+      "rank": 2
+    },
+    {
+      "title": "Nobody Gets Promoted for Simplicity",
+      "source": "Hacker News",
+      "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "domain": "AI/Tech",
+      "summary": "Nobody Gets Promoted for Simplicity — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 464.",
+      "rank": 3
+    },
+    {
+      "title": "Agentic Engineering Patterns",
+      "source": "Hacker News",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+      "domain": "AI/Tech",
+      "summary": "Agentic Engineering Patterns — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 345.",
+      "rank": 4
+    },
+    {
+      "title": "Bet on German Train Delays",
+      "source": "Hacker News",
+      "url": "https://bahn.bet",
+      "domain": "AI/Tech",
+      "summary": "Bet on German Train Delays — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 235.",
+      "rank": 5
+    },
+    {
+      "title": "RFC 9849. TLS Encrypted Client Hello",
+      "source": "Hacker News",
+      "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
+      "domain": "AI/Tech",
+      "summary": "RFC 9849. TLS Encrypted Client Hello — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 202.",
+      "rank": 6
+    },
+    {
+      "title": "A CPU that runs entirely on GPU",
+      "source": "Hacker News",
+      "url": "https://github.com/robertcprice/nCPU",
+      "domain": "AI/Tech",
+      "summary": "A CPU that runs entirely on GPU — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 185.",
+      "rank": 7
+    },
+    {
+      "title": "Graphics Programming Resources",
+      "source": "Hacker News",
+      "url": "https://develop--gpvm-website.netlify.app/resources/",
+      "domain": "AI/Tech",
+      "summary": "Graphics Programming Resources — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 159.",
+      "rank": 8
+    },
+    {
+      "title": "Better JIT for Postgres",
+      "source": "Hacker News",
+      "url": "https://github.com/vladich/pg_jitter",
+      "domain": "AI/Tech",
+      "summary": "Better JIT for Postgres — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 119.",
+      "rank": 9
+    },
+    {
+      "title": "Show HN: Stacked Game of Life",
+      "source": "Hacker News",
+      "url": "https://stacked-game-of-life.koenvangilst.nl/",
+      "domain": "AI/Tech",
+      "summary": "Show HN: Stacked Game of Life — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 116.",
+      "rank": 10
+    },
+    {
+      "title": "RE#: how we built the fastest regex engine in F#",
+      "source": "Hacker News",
+      "url": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
+      "domain": "Product Design/Tools",
+      "summary": "RE#: how we built the fastest regex engine in F# — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 128.",
+      "rank": 1
+    },
+    {
+      "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+      "source": "Hacker News",
+      "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+      "domain": "Product Design/Tools",
+      "summary": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 102.",
+      "rank": 2
+    },
+    {
+      "title": "A Visual Guide to DNA Sequencing",
+      "source": "Hacker News",
+      "url": "https://www.asimov.press/p/dna-sequencing",
+      "domain": "Product Design/Tools",
+      "summary": "A Visual Guide to DNA Sequencing — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 18.",
+      "rank": 3
+    },
+    {
+      "title": "Emergence or training artifact? My AI agents independently built safety tools I never asked for. 28/170 builds over 3 weeks.",
+      "source": "Reddit r/artificial",
+      "url": "https://www.reddit.com/r/artificial/comments/1rki8d4/emergence_or_training_artifact_my_ai_agents/",
+      "domain": "Product Design/Tools",
+      "summary": "Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave them an open brief: scan developer forums and research platforms, identify pain points in how developers work, design solutions, build prototypes. No specific domain. No target output. Just: find problems worth solving and ",
+      "insight": "Sourced from Reddit r/artificial with score 2.",
+      "rank": 4
+    },
+    {
+      "title": "[P] We made GoodSeed, a pleasant ML experiment tracker",
+      "source": "Reddit r/MachineLearning",
+      "url": "https://www.reddit.com/gallery/1rk1mgi",
+      "domain": "Product Design/Tools",
+      "summary": "# GoodSeed v0.3.0 🎉\n\nI and my friend are pleased to announce **GoodSeed** \\- a ML experiment tracker which we are now using as a replacement for Neptune.\n\n# Key Features\n\n* **Simple and fast**: Beautiful, clean UI\n* **Metric plots:** Zoom-based downsampling, smoothing, relative time x axis, fullscr",
+      "insight": "Sourced from Reddit r/MachineLearning with score 53.",
+      "rank": 5
+    },
+    {
+      "title": "[R] AdamWClip: AdamW with adaptive gradient clipping",
+      "source": "Reddit r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rjmwmf/r_adamwclip_adamw_with_adaptive_gradient_clipping/",
+      "domain": "Product Design/Tools",
+      "summary": "Hi,  \nWould you like to try out an optimizer that does (adaptive) gradient clipping, so you don't have to set clipping thresholds manually?  \nWe have developed AdamWClip, an extension to AdamW that does exactly that, with no additional memory required and only marginal computational overhead. In our",
+      "insight": "Sourced from Reddit r/MachineLearning with score 54.",
+      "rank": 6
+    },
+    {
+      "title": "Branding vs Marketing &amp; What Most Companies Get Wrong (I will not promote)",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rkoci7/branding_vs_marketing_what_most_companies_get/",
+      "domain": "Product Design/Tools",
+      "summary": "Most companies assume they need better marketing:  more ads, more SEO, more campaigns.  \nBut something interesting came up in my latest podcast conversation:\n\nThe real issue for many companies isn’t marketing at all.\n\nIt’s differentiation.\n\nIf customers can’t clearly see how one product or company i",
+      "insight": "Sourced from Reddit r/startups with score 2.",
+      "rank": 7
+    },
+    {
+      "title": "Why are so many AI startups using human first names now? - I will not promote",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rkkibl/why_are_so_many_ai_startups_using_human_first/",
+      "domain": "Product Design/Tools",
+      "summary": "I’ve been noticing a strong trend toward human first names in AI products and agent tools.\n\nExamples: Claude, Alexa, Siri, Leonardo AI, etc. It feels like AI branding is moving away from abstract tech names toward something more personal and identity driven.\n\nOut of curiosity I tested this with a fi",
+      "insight": "Sourced from Reddit r/startups.",
+      "rank": 8
+    },
+    {
+      "title": "Market fit is not about your product. It's about the problem (I will not promote)",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rkhfjo/market_fit_is_not_about_your_product_its_about/",
+      "domain": "Product Design/Tools",
+      "summary": "I wrote an insightful LinkedIn post and got 50K views. Someone wrote about how to prevent your .env file from being exposed in Claude coding projects and got hundreds of thousands of views, thousands of comments, and replies.\n\nThat's the whole market fit lesson right there.\n\nIt doesn't matter how po",
+      "insight": "Sourced from Reddit r/startups.",
+      "rank": 9
+    },
+    {
+      "title": "How do you get your first users when everyone is launching something? -i will not promote",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rjnzyh/how_do_you_get_your_first_users_when_everyone_is/",
+      "domain": "Product Design/Tools",
+      "summary": "building a product is not hard anymore. Getting anyone to see it is\n\nwith AI and vibe coding for everyone, new projects appear every day. It feels like there are more builders than users now\n\nI built a small tool in a high-demand area (career direction), and it's not ChatGPT wrapper, and the hardest",
+      "insight": "Sourced from Reddit r/startups with score 7.",
+      "rank": 10
+    },
+    {
+      "title": "Claude's Cycles [pdf]",
+      "source": "Hacker News",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "domain": "Startup/Business",
+      "summary": "Claude's Cycles [pdf] — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 720.",
+      "rank": 1
+    },
+    {
+      "title": "Glaze by Raycast",
+      "source": "Hacker News",
+      "url": "https://www.glazeapp.com/",
+      "domain": "Startup/Business",
+      "summary": "Glaze by Raycast — from Hacker News.",
+      "insight": "Sourced from Hacker News with score 114.",
+      "rank": 2
+    },
+    {
+      "title": "How do early-stage founders actually find their technical co-founder or first tech expert? I will not promote",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rkh5ln/how_do_earlystage_founders_actually_find_their/",
+      "domain": "Startup/Business",
+      "summary": "I've been researching how non-technical founders solve the \"I need a technical person\" problem early on, and I keep getting two answers: old friend, or pure luck. That can't be the whole story.\n\nI talked to two founders recently: one found his technical partner through an old friend, the other throu",
+      "insight": "Sourced from Reddit r/startups with score 17.",
+      "rank": 3
+    },
+    {
+      "title": "I turned down a \"co-founder\" title/equity at a Dutch deep-tech start- up. Did I shoot myself in the foot i will not promote",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rkk1k8/i_turned_down_a_cofounder_titleequity_at_a_dutch/",
+      "domain": "Startup/Business",
+      "summary": "I’m a mid-20s MechEng Master's student. I just finished a 6-month R&amp;D internship at a Dutch hardware startup . I did great, and the CEO offered me a \"co-founder\" title and equity to drop my Master's and stay full-time.\n​Option A (The Startup): €3k net/month + equity (standard 4-year vest, 1-year",
+      "insight": "Sourced from Reddit r/startups with score 7.",
+      "rank": 4
+    },
+    {
+      "title": "Advice for new business ideas? (I will not promote)",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rknwrf/advice_for_new_business_ideas_i_will_not_promote/",
+      "domain": "Startup/Business",
+      "summary": "Hi all, I have an idea for a product and a target audience in mind, but I would like to make sure I do everything I can correctly. In the past I started a clothing brand and while I found minimal success, it was just that, minimal. I had very little clue what I was doing and felt like I skipped many",
+      "insight": "Sourced from Reddit r/startups with score 2.",
+      "rank": 5
+    },
+    {
+      "title": "I just wanna have a successful business but ive failed so much. I will not promote",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rkncpq/i_just_wanna_have_a_successful_business_but_ive/",
+      "domain": "Startup/Business",
+      "summary": "Ever since I was in primary school, I wanted to start a business really badly. I was the kid who would buy and sell candy at 8 years old on the bus. After that, I've continuously tried starting multiple businesses in eclmmerce, SAAS, services throughout high school and college. Ive made some money b",
+      "insight": "Sourced from Reddit r/startups with score 2.",
+      "rank": 6
+    },
+    {
+      "title": "Founders: do daily standups actually scale once your team grows? (I will not promote)",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rkaey0/founders_do_daily_standups_actually_scale_once/",
+      "domain": "Startup/Business",
+      "summary": "Something I’ve been thinking about recently.\n\nA lot of startups adopt daily standups early because they’re simple and everyone recommends them.\n\nBut once the team grows, I keep seeing the same pattern:\n\nThe 15-minute standup slowly turns into 30–60 minutes.\n\nNot because people love meetings, but bec",
+      "insight": "Sourced from Reddit r/startups with score 8.",
+      "rank": 7
+    },
+    {
+      "title": "Anyone interested in startups in Sydney Australia? i will not promote",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rkhe1r/anyone_interested_in_startups_in_sydney_australia/",
+      "domain": "Startup/Business",
+      "summary": "Hey all, I'm looking to connect and potentially build things with co-founders in Sydney Australia.\n\nI have a strong technical background and am ideally looking for someone that's Growth/Marketing oriented to work with.\n\nAbout me:  \n\\- 5 yoe, currently working full time as a senior SWE in big tech  \n",
+      "insight": "Sourced from Reddit r/startups with score 2.",
+      "rank": 8
+    },
+    {
+      "title": "Typical Equity Comp for Non-Technical Series A Roles? (I will not promote)",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rk7g95/typical_equity_comp_for_nontechnical_series_a/",
+      "domain": "Startup/Business",
+      "summary": "I received a strategy role for an Al company in the Bay Area. Base is \\~$150k and bonus is \\~$20k. They give stock options that is about 0.02% with normal cliff vesting.\n\nThe role reports to someone but I have \\~4 years of relevant experience.\n\nIs 0.02% typical for a recently funded Series A company",
+      "insight": "Sourced from Reddit r/startups with score 5.",
+      "rank": 9
+    },
+    {
+      "title": "As an actual founder at 10M$ ARR of a company built in 13 years: a [not so] common sense rant about fail fast mentality and the YC type success stories (I will not promote)",
+      "source": "Reddit r/startups",
+      "url": "https://www.reddit.com/r/startups/comments/1rjkjyr/as_an_actual_founder_at_10m_arr_of_a_company/",
+      "domain": "Startup/Business",
+      "summary": "Brace yourself this isn't going to be short but beginners really need to understand this to really understand why some things that are generally praised are actually not ideal\n\nMy background (not needed)\n\n&gt;First about myself and my company, I've built first company shortly after studies, just lik",
+      "insight": "Sourced from Reddit r/startups with score 110.",
+      "rank": 10
+    },
+    {
+      "title": "Apple Launches $599 MacBook Neo, Threatening Windows PC Market",
+      "source": "Reddit r/technology",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/apple-launches-599-macbook-neo-threatening-windows-pc-market?srnd=phx-technology",
+      "domain": "Market/Trading",
+      "summary": "Apple Launches $599 MacBook Neo, Threatening Windows PC Market — from Reddit r/technology.",
+      "insight": "Sourced from Reddit r/technology with score 2496.",
+      "rank": 1
+    },
+    {
+      "title": "Congratulations to Groww",
+      "source": "Y Combinator Blog",
+      "url": "https://www.ycombinator.com/blog/groww/",
+      "domain": "Market/Trading",
+      "summary": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud.",
+      "insight": "Sourced from Y Combinator Blog.",
+      "rank": 2
+    },
+    {
+      "title": "Jane Street vs Bitcoin 🪙, AGI career decisions 💼, Vercel Chat SDK 🤖",
+      "source": "TLDR Tech",
+      "url": "https://tldr.tech/tech/2026-02-26",
+      "domain": "Market/Trading",
+      "summary": "Jane Street vs Bitcoin 🪙, AGI career decisions 💼, Vercel Chat SDK 🤖 — from TLDR Tech.",
+      "insight": "Sourced from TLDR Tech.",
+      "rank": 3
+    }
+  ]
+}
