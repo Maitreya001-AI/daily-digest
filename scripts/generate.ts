@@ -253,9 +253,13 @@ Your task:
    - "source": string — where it came from
    - "url": string — valid URL to the content
    - "domain": string — one of the four domains listed above (exact string match)
-   - "summary": string — 2-3 sentence summary of why this is interesting
-   - "insight": string — 1-2 sentence objective analysis or takeaway
+   - "summary": string — 用中文写「更长一点」的总结（建议 4-8 句，覆盖：讲了什么、关键点、背景/上下文、为什么重要）
+   - "insight": string — 用中文写「客观洞察」（建议 2-4 句），聚焦行业影响/趋势信号/潜在二阶效应；不输出个人立场、不做投资建议
    - "rank": number — rank 1-10 within its domain (1 = most important)
+
+Output language requirements:
+- summary/insight 必须是中文
+- 标题 title 可以保留原文（英文也行），但 summary/insight 必须中文
 
 4. Return ONLY a valid JSON object matching this schema:
 {
@@ -281,11 +285,12 @@ function callAI(rawItems: RawItem[]): DailyDigest | null {
     fs.writeFileSync(tmpFile, prompt, "utf-8");
 
     const result = execSync(
-      `openclaw agent --message "$(cat ${JSON.stringify(tmpFile)})" --json`,
+      // Use an explicit agent so the CLI doesn't require --to/--session-id
+      `openclaw agent --agent main --message "$(cat ${JSON.stringify(tmpFile)})" --json`,
       {
         encoding: "utf-8",
         maxBuffer: 50 * 1024 * 1024, // 50 MB
-        timeout: 5 * 60 * 1000, // 5 minutes
+        timeout: 8 * 60 * 1000, // 8 minutes (AI selection can take longer)
         cwd: PROJECT_ROOT,
       }
     );
@@ -296,10 +301,22 @@ function callAI(rawItems: RawItem[]): DailyDigest | null {
     // Parse the JSON response
     const parsed = JSON.parse(result);
 
-    // The response might be wrapped – try to find the digest object
-    const digest = parsed.date && parsed.cards ? parsed : parsed.result ?? parsed.output ?? parsed;
+    // openclaw agent --json returns a wrapper; the actual model text is usually in:
+    // parsed.result.payloads[0].text
+    let candidate: any = parsed;
+    const payloadText = parsed?.result?.payloads?.[0]?.text;
+    if (typeof payloadText === "string" && payloadText.trim().length > 0) {
+      // payloadText itself should be a JSON string per our prompt
+      candidate = JSON.parse(payloadText);
+    } else if (parsed?.date && parsed?.cards) {
+      candidate = parsed;
+    } else if (parsed?.result?.date && parsed?.result?.cards) {
+      candidate = parsed.result;
+    } else if (parsed?.output?.date && parsed?.output?.cards) {
+      candidate = parsed.output;
+    }
 
-    const validated = DailyDigestSchema.parse(digest);
+    const validated = DailyDigestSchema.parse(candidate);
     log(`AI selection complete: ${validated.cards.length} cards across domains.`);
     return validated;
   } catch (err) {
@@ -363,8 +380,14 @@ function buildFallbackDigest(rawItems: RawItem[]): DailyDigest {
       source: item.source,
       url: item.url,
       domain,
-      summary: item.description?.slice(0, 300) ?? `${item.title} — from ${item.source}.`,
-      insight: `Sourced from ${item.source}${item.score ? ` with score ${item.score}` : ""}.`,
+      summary:
+        item.description
+          ? `摘要（fallback）：${item.description.slice(0, 800)}`
+          : `摘要（fallback）：来自 ${item.source}。该条目标题为「${item.title}」。建议后续开启 AI 管线生成更完整中文总结。`,
+      insight:
+        `洞察（fallback）：当前为无 AI 模式下的粗分类与占位总结。来源：${item.source}` +
+        (item.score ? `；热度/评分：${item.score}` : "") +
+        "。",
       rank: buckets[domain].length + 1,
     });
   }
