@@ -1,0 +1,771 @@
+{
+  "date": "2026-03-09",
+  "fetchedAt": "2026-03-08T17:02:15.491Z",
+  "items": [
+    {
+      "title": "Yoghurt delivery women combatting loneliness in Japan",
+      "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+      "source": "Hacker News",
+      "score": 351,
+      "publishedAt": "2026-03-07T13:12:40Z"
+    },
+    {
+      "title": "How to run Qwen 3.5 locally",
+      "url": "https://unsloth.ai/docs/models/qwen3.5",
+      "source": "Hacker News",
+      "score": 346,
+      "publishedAt": "2026-03-07T23:32:17Z"
+    },
+    {
+      "title": "A decade of Docker containers",
+      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "source": "Hacker News",
+      "score": 335,
+      "publishedAt": "2026-03-07T16:55:18Z"
+    },
+    {
+      "title": "CasNum",
+      "url": "https://github.com/0x0mer/CasNum",
+      "source": "Hacker News",
+      "score": 316,
+      "publishedAt": "2026-03-07T20:43:51Z"
+    },
+    {
+      "title": "Cloud VM benchmarks 2026",
+      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "source": "Hacker News",
+      "score": 295,
+      "publishedAt": "2026-03-08T00:44:32Z"
+    },
+    {
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "source": "Hacker News",
+      "score": 268,
+      "publishedAt": "2026-03-08T10:54:32Z"
+    },
+    {
+      "title": "Warn about PyPy being unmaintained",
+      "url": "https://github.com/astral-sh/uv/pull/17643",
+      "source": "Hacker News",
+      "score": 268,
+      "publishedAt": "2026-03-08T01:35:21Z"
+    },
+    {
+      "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
+      "url": "https://xcancel.com/theflow0/status/2030011206040256841",
+      "source": "Hacker News",
+      "score": 186,
+      "publishedAt": "2026-03-08T12:40:14Z"
+    },
+    {
+      "title": "Notes on Writing WASM",
+      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "source": "Hacker News",
+      "score": 129,
+      "publishedAt": "2026-03-08T09:24:54Z"
+    },
+    {
+      "title": "FrameBook",
+      "url": "https://fb.edoo.gg",
+      "source": "Hacker News",
+      "score": 106,
+      "publishedAt": "2026-03-08T15:21:09Z"
+    },
+    {
+      "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
+      "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
+      "source": "Hacker News",
+      "score": 104,
+      "publishedAt": "2026-03-08T14:09:09Z"
+    },
+    {
+      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+      "source": "Hacker News",
+      "score": 103,
+      "publishedAt": "2026-03-05T10:23:15Z"
+    },
+    {
+      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+      "source": "Hacker News",
+      "score": 98,
+      "publishedAt": "2026-03-04T15:42:49Z"
+    },
+    {
+      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+      "url": "https://arxiv.org/abs/2603.03823",
+      "source": "Hacker News",
+      "score": 93,
+      "publishedAt": "2026-03-08T08:11:50Z"
+    },
+    {
+      "title": "The Lobster Programming Language",
+      "url": "https://strlen.com/lobster/",
+      "source": "Hacker News",
+      "score": 84,
+      "publishedAt": "2026-03-03T22:24:54Z"
+    },
+    {
+      "title": "Some Words on WigglyPaint",
+      "url": "https://beyondloom.com/blog/onwigglypaint.html",
+      "source": "Hacker News",
+      "score": 81,
+      "publishedAt": "2026-03-07T01:21:47Z"
+    },
+    {
+      "title": "Why can't you tune your guitar? (2019)",
+      "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
+      "source": "Hacker News",
+      "score": 74,
+      "publishedAt": "2026-03-04T22:30:27Z"
+    },
+    {
+      "title": "From RGB to L*a*b* color space (2024)",
+      "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+      "source": "Hacker News",
+      "score": 74,
+      "publishedAt": "2026-03-04T09:24:13Z"
+    },
+    {
+      "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+      "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+      "source": "Hacker News",
+      "score": 74,
+      "publishedAt": "2026-03-04T13:39:34Z"
+    },
+    {
+      "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
+      "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
+      "source": "Hacker News",
+      "score": 71,
+      "publishedAt": "2026-03-08T15:37:32Z"
+    },
+    {
+      "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
+      "url": "https://curiosity-telescope.vercel.app/",
+      "source": "Hacker News",
+      "description": "A DIY Newtonian reflector telescope with dobsonian mount. A fun to do hobby project taking us closer to the moon and beyond. A lot of plans ahead on how  to make it much better and portable but this was the first time me and my friend implemented or rather built a telescope.<p>Have a look at what all we have captured.",
+      "score": 67,
+      "publishedAt": "2026-03-08T07:16:15Z"
+    },
+    {
+      "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
+      "url": "https://github.com/ataraxy-labs/sem",
+      "source": "Hacker News",
+      "score": 65,
+      "publishedAt": "2026-03-08T06:01:26Z"
+    },
+    {
+      "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+      "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+      "source": "Hacker News",
+      "score": 53,
+      "publishedAt": "2026-03-05T07:36:22Z"
+    },
+    {
+      "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
+      "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
+      "source": "Hacker News",
+      "score": 48,
+      "publishedAt": "2026-03-08T11:04:04Z"
+    },
+    {
+      "title": "Living Human Brain Cells Play Doom on a CL1",
+      "url": "https://corticallabs.com/doom.html",
+      "source": "Hacker News",
+      "score": 36,
+      "publishedAt": "2026-03-08T15:07:28Z"
+    },
+    {
+      "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+      "url": "https://github.com/kantord/blogtato",
+      "source": "Hacker News",
+      "score": 35,
+      "publishedAt": "2026-03-08T13:16:14Z"
+    },
+    {
+      "title": "What if the Apple ][ had run on Field-Sequential?",
+      "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
+      "source": "Hacker News",
+      "score": 30,
+      "publishedAt": "2026-03-08T15:05:40Z"
+    },
+    {
+      "title": "Beagle, a source code management system that stores AST trees",
+      "url": "https://github.com/gritzko/librdx/tree/master/be",
+      "source": "Hacker News",
+      "score": 29,
+      "publishedAt": "2026-03-08T13:28:26Z"
+    },
+    {
+      "title": "If It Quacks Like a Package Manager",
+      "url": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html",
+      "source": "Hacker News",
+      "score": 22,
+      "publishedAt": "2026-03-08T11:27:49Z"
+    },
+    {
+      "title": "Accessing inactive union members through char",
+      "url": "https://www.sandordargo.com/blog/2026/03/04/char-representation-and-UB",
+      "source": "Hacker News",
+      "score": 9,
+      "publishedAt": "2026-03-04T12:36:03Z"
+    },
+    {
+      "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
+      "url": "http://arxiv.org/abs/2603.05504v1",
+      "source": "arXiv",
+      "description": "Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing the underlying policy's weaknesses, leading to inefficient coverage of critical state distributions. Conversely, interactive methods like DAgger effectively address covariate shift but rely on physical ",
+      "publishedAt": "2026-03-05T18:59:38Z"
+    },
+    {
+      "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
+      "url": "http://arxiv.org/abs/2603.05500v1",
+      "source": "arXiv",
+      "description": "Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalence transformation, has been proposed. Although POET provides strong training stability, its original implementation incurs high memory consumption and computational overhead due to intensive matrix mu",
+      "publishedAt": "2026-03-05T18:59:23Z"
+    },
+    {
+      "title": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+      "url": "http://arxiv.org/abs/2603.05498v1",
+      "source": "arXiv",
+      "description": "We study two recurring phenomena in Transformer language models: massive activations, in which a small number of tokens exhibit extreme outliers in a few channels, and attention sinks, in which certain tokens attract disproportionate attention mass regardless of semantic relevance. Prior work observes that these phenomena frequently co-occur and often involve the same tokens, but their functional roles and causal relationship remain unclear. Through systematic experiments, we show that the co-oc",
+      "publishedAt": "2026-03-05T18:59:04Z"
+    },
+    {
+      "title": "Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels",
+      "url": "http://arxiv.org/abs/2603.05495v1",
+      "source": "arXiv",
+      "description": "To scale the solution of optimization and simulation problems, prior work has explored machine-learning surrogates that inexpensively map problem parameters to corresponding solutions. Commonly used approaches, including supervised and self-supervised learning with either soft or hard feasibility enforcement, face inherent challenges such as reliance on expensive, high-quality labels or difficult optimization landscapes. To address their trade-offs, we propose a novel framework that first collec",
+      "publishedAt": "2026-03-05T18:58:39Z"
+    },
+    {
+      "title": "Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
+      "url": "http://arxiv.org/abs/2603.05494v1",
+      "source": "arXiv",
+      "description": "Large language models sometimes produce false or misleading responses. Two approaches to this problem are honesty elicitation -- modifying prompts or weights so that the model answers truthfully -- and lie detection -- classifying whether a given response is false. Prior work evaluates such methods on models specifically trained to lie or conceal information, but these artificial constructions may not resemble naturally-occurring dishonesty. We instead study open-weights LLMs from Chinese develo",
+      "publishedAt": "2026-03-05T18:58:14Z"
+    },
+    {
+      "title": "Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought",
+      "url": "http://arxiv.org/abs/2603.05488v1",
+      "source": "arXiv",
+      "description": "We provide evidence of performative chain-of-thought (CoT) in reasoning models, where a model becomes strongly confident in its final answer, but continues generating tokens without revealing its internal belief. Our analysis compares activation probing, early forced answering, and a CoT monitor across two large models (DeepSeek-R1 671B &amp; GPT-OSS 120B) and find task difficulty-specific differences: The model's final answer is decodable from activations far earlier in CoT than a monitor is ab",
+      "publishedAt": "2026-03-05T18:55:16Z"
+    },
+    {
+      "title": "Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation",
+      "url": "http://arxiv.org/abs/2603.05485v1",
+      "source": "arXiv",
+      "description": "As AI models progress beyond simple chatbots into more complex workflows, we draw ever closer to the event horizon beyond which AI systems will be utilized in autonomous, self-maintaining feedback loops. Any autonomous AI system will depend on automated, verifiable rewards and feedback; in settings where ground truth is sparse or non-deterministic, one practical source of such rewards is an LLM-as-a-Judge. Although LLM judges continue to improve, the literature has yet to introduce systems capab",
+      "publishedAt": "2026-03-05T18:52:28Z"
+    },
+    {
+      "title": "SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis",
+      "url": "http://arxiv.org/abs/2603.05483v1",
+      "source": "arXiv",
+      "description": "Estimating heterogeneous treatment effects (HTEs) from right-censored survival data is critical in high-stakes applications such as precision medicine and individualized policy-making. Yet, the survival analysis setting poses unique challenges for HTE estimation due to censoring, unobserved counterfactuals, and complex identification assumptions. Despite recent advances, from Causal Survival Forests to survival meta-learners and outcome imputation approaches, evaluation practices remain fragment",
+      "publishedAt": "2026-03-05T18:52:02Z"
+    },
+    {
+      "title": "Thermodynamic Response Functions in Singular Bayesian Models",
+      "url": "http://arxiv.org/abs/2603.05480v1",
+      "source": "arXiv",
+      "description": "Singular statistical models-including mixtures, matrix factorization, and neural networks-violate regular asymptotics due to parameter non-identifiability and degenerate Fisher geometry. Although singular learning theory characterizes marginal likelihood behavior through invariants such as the real log canonical threshold and singular fluctuation, these quantities remain difficult to interpret operationally. At the same time, widely used criteria such as WAIC and WBIC appear disconnected from un",
+      "publishedAt": "2026-03-05T18:50:20Z"
+    },
+    {
+      "title": "Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval",
+      "url": "http://arxiv.org/abs/2603.05471v1",
+      "source": "arXiv",
+      "description": "Trustworthiness is a core research challenge for agentic AI systems built on Large Language Models (LLMs). To enhance trust, natural language claims from diverse sources, including human-written text, web content, and model outputs, are commonly checked for factuality by retrieving external knowledge and using an LLM to verify the faithfulness of claims to the retrieved evidence. As a result, such methods are constrained by retrieval errors and external data availability, while leaving the model",
+      "publishedAt": "2026-03-05T18:42:51Z"
+    },
+    {
+      "title": "Kraus Constrained Sequence Learning For Quantum Trajectories from Continuous Measurement",
+      "url": "http://arxiv.org/abs/2603.05468v1",
+      "source": "arXiv",
+      "description": "Real-time reconstruction of conditional quantum states from continuous measurement records is a fundamental requirement for quantum feedback control, yet standard stochastic master equation (SME) solvers require exact model specification, known system parameters, and are sensitive to parameter mismatch. While neural sequence models can fit these stochastic dynamics, the unconstrained predictors can violate physicality such as positivity or trace constraints, leading to unstable rollouts and unph",
+      "publishedAt": "2026-03-05T18:37:05Z"
+    },
+    {
+      "title": "Distributed Partial Information Puzzles: Examining Common Ground Construction Under Epistemic Asymmetry",
+      "url": "http://arxiv.org/abs/2603.05450v1",
+      "source": "arXiv",
+      "description": "Establishing common ground, a shared set of beliefs and mutually recognized facts, is fundamental to collaboration, yet remains a challenge for current AI systems, especially in multimodal, multiparty settings, where the collaborators bring different information to the table. We introduce the Distributed Partial Information Puzzle (DPIP), a collaborative construction task that elicits rich multimodal communication under epistemic asymmetry. We present a multimodal dataset of these interactions, ",
+      "publishedAt": "2026-03-05T18:22:55Z"
+    },
+    {
+      "title": "RealWonder: Real-Time Physical Action-Conditioned Video Generation",
+      "url": "http://arxiv.org/abs/2603.05449v1",
+      "source": "arXiv",
+      "description": "Current video generation models cannot simulate physical consequences of 3D actions like forces and robotic manipulations, as they lack structural understanding of how actions affect 3D scenes. We present RealWonder, the first real-time system for action-conditioned video generation from a single image. Our key insight is using physics simulation as an intermediate bridge: instead of directly encoding continuous actions, we translate them through physics simulation into visual representations (o",
+      "publishedAt": "2026-03-05T18:22:54Z"
+    },
+    {
+      "title": "Residual RL--MPC for Robust Microrobotic Cell Pushing Under Time-Varying Flow",
+      "url": "http://arxiv.org/abs/2603.05448v1",
+      "source": "arXiv",
+      "description": "Contact-rich micromanipulation in microfluidic flow is challenging because small disturbances can break pushing contact and induce large lateral drift. We study planar cell pushing with a magnetic rolling microrobot that tracks a waypoint-sampled reference curve under time-varying Poiseuille flow. We propose a hybrid controller that augments a nominal MPC with a learned residual policy trained by SAC. The policy outputs a bounded 2D velocity correction that is contact-gated, so residual actions ",
+      "publishedAt": "2026-03-05T18:20:07Z"
+    },
+    {
+      "title": "Latent Wasserstein Adversarial Imitation Learning",
+      "url": "http://arxiv.org/abs/2603.05440v1",
+      "source": "arXiv",
+      "description": "Imitation Learning (IL) enables agents to mimic expert behavior by learning from demonstrations. However, traditional IL methods require large amounts of medium-to-high-quality demonstrations as well as actions of expert demonstrations, both of which are often unavailable. To reduce this need, we propose Latent Wasserstein Adversarial Imitation Learning (LWAIL), a novel adversarial imitation learning framework that focuses on state-only distribution matching. It benefits from the Wasserstein dis",
+      "publishedAt": "2026-03-05T18:01:49Z"
+    },
+    {
+      "title": "Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model",
+      "url": "http://arxiv.org/abs/2603.05438v1",
+      "source": "arXiv",
+      "description": "World models provide a powerful framework for simulating environment dynamics conditioned on actions or instructions, enabling downstream tasks such as action planning or policy learning. Recent approaches leverage world models as learned simulators, but its application to decision-time planning remains computationally prohibitive for real-time control. A key bottleneck lies in latent representations: conventional tokenizers encode each observation into hundreds of tokens, making planning both s",
+      "publishedAt": "2026-03-05T18:00:02Z"
+    },
+    {
+      "title": "SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning",
+      "url": "http://arxiv.org/abs/2603.05437v1",
+      "source": "arXiv",
+      "description": "Weakly-Supervised Dense Video Captioning aims to localize and describe events in videos trained only on caption annotations, without temporal boundaries. Prior work introduced an implicit supervision paradigm based on Gaussian masking and complementary captioning. However, existing method focuses merely on generating non-overlapping masks without considering their semantic relationship to corresponding events, resulting in simplistic, uniformly distributed masks that fail to capture semantically",
+      "publishedAt": "2026-03-05T17:59:58Z"
+    },
+    {
+      "title": "On-Policy Self-Distillation for Reasoning Compression",
+      "url": "http://arxiv.org/abs/2603.05433v1",
+      "source": "arXiv",
+      "description": "Reasoning models think out loud, but much of what they say is noise. We introduce OPSDC (On-Policy Self-Distillation for Reasoning Compression), a method that teaches models to reason more concisely by distilling their own concise behavior back into themselves. The entire approach reduces to one idea: condition the same model on a \"be concise\" instruction to obtain teacher logits, and minimize per-token reverse KL on the student's own rollouts. No ground-truth answers, no token budgets, no diffi",
+      "publishedAt": "2026-03-05T17:54:40Z"
+    },
+    {
+      "title": "Ensembling Language Models with Sequential Monte Carlo",
+      "url": "http://arxiv.org/abs/2603.05432v1",
+      "source": "arXiv",
+      "description": "Practitioners have access to an abundance of language models and prompting strategies for solving many language modeling tasks; yet prior work shows that modeling performance is highly sensitive to both choices. Classical machine learning ensembling techniques offer a principled approach: aggregate predictions from multiple sources to achieve better performance than any single one. However, applying ensembling to language models during decoding is challenging: naively aggregating next-token prob",
+      "publishedAt": "2026-03-05T17:54:31Z"
+    },
+    {
+      "title": "RelaxFlow: Text-Driven Amodal 3D Generation",
+      "url": "http://arxiv.org/abs/2603.05425v1",
+      "source": "arXiv",
+      "description": "Image-to-3D generation faces inherent semantic ambiguity under occlusion, where partial observation alone is often insufficient to determine object category. In this work, we formalize text-driven amodal 3D generation, where text prompts steer the completion of unseen regions while strictly preserving input observation. Crucially, we identify that these objectives demand distinct control granularities: rigid control for the observation versus relaxed structural control for the prompt. To this en",
+      "publishedAt": "2026-03-05T17:45:47Z"
+    },
+    {
+      "title": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "source": "GitHub Trending",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "score": 14027
+    },
+    {
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "source": "GitHub Trending",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "score": 6677
+    },
+    {
+      "title": "shadcn-ui/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "source": "GitHub Trending",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "score": 108511
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub Trending",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "score": 279727
+    },
+    {
+      "title": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "source": "GitHub Trending",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "score": 65032
+    },
+    {
+      "title": "Ed1s0nZ/CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "source": "GitHub Trending",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "score": 2141
+    },
+    {
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "source": "GitHub Trending",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "score": 23718
+    },
+    {
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "source": "GitHub Trending",
+      "description": "Skills Catalog for Codex",
+      "score": 13093
+    },
+    {
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "source": "GitHub Trending",
+      "description": "An AI Hedge Fund Team",
+      "score": 46748
+    },
+    {
+      "title": "is-a-dev/register",
+      "url": "https://github.com/is-a-dev/register",
+      "source": "GitHub Trending",
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "score": 9703
+    },
+    {
+      "title": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "source": "GitHub Trending",
+      "description": "Unofficial Python API for Google NotebookLM",
+      "score": 3596
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending",
+      "description": "The design language that makes your AI harness better at design.",
+      "score": 1500
+    },
+    {
+      "title": "Evaluating Skills",
+      "url": "https://blog.langchain.com/evaluating-skills/",
+      "source": "LangChain Blog",
+      "description": "By Robert Xu\nRecently at LangChain we’ve been building skills to help coding agents like Codex, Claude Code, and Deep Agents CLI work with our ecosystem: namely, LangChain and LangSmith. This is not an effort unique to us - most (if not all) companies are exploring how to",
+      "publishedAt": "2026-03-05T18:00:49.000Z"
+    },
+    {
+      "title": "LangSmith CLI & Skills",
+      "url": "https://blog.langchain.com/langsmith-cli-skills/",
+      "source": "LangChain Blog",
+      "description": "We’re releasing a CLI along with our first set of skills to give AI coding agents expertise in the LangSmith ecosystem. This includes adding tracing to agents, understanding their execution, building test sets, and evaluating performance. On our eval set, this bumps Claude Code’s performance on",
+      "publishedAt": "2026-03-04T18:00:31.000Z"
+    },
+    {
+      "title": "LangChain Skills",
+      "url": "https://blog.langchain.com/langchain-skills/",
+      "source": "LangChain Blog",
+      "description": "We’re releasing our first set of skills to give AI coding agents expertise in the open source LangChain ecosystem. This includes building agents with LangChain, LangGraph, and Deep Agents. On our eval set, this bumps Claude Code’s performance on these tasks from 29% to 95%.\nWhat",
+      "publishedAt": "2026-03-04T18:00:19.000Z"
+    },
+    {
+      "title": "You don’t know what your agent will do until it’s in production",
+      "url": "https://blog.langchain.com/you-dont-know-what-your-agent-will-do-until-its-in-production/",
+      "source": "LangChain Blog",
+      "description": "You can't monitor agents like traditional software. Inputs are infinite, behavior is non-deterministic, and quality lives in the conversations themselves. This article explains what to monitor, how to scale evaluation, and how production traces become the foundation for continuous improvement.",
+      "publishedAt": "2026-02-26T04:28:00.000Z"
+    },
+    {
+      "title": "How we built Agent Builder’s memory system",
+      "url": "https://blog.langchain.com/how-we-built-agent-builders-memory-system/",
+      "source": "LangChain Blog",
+      "description": "A key part of Agent Builder is its memory system. In this article we cover our rationale for prioritizing a memory system, technical details of how we built it, learnings from building the memory system, what the memory system enables, and discuss future work.",
+      "publishedAt": "2026-02-22T03:55:36.000Z"
+    },
+    {
+      "title": "Agent Observability Powers Agent Evaluation",
+      "url": "https://blog.langchain.com/agent-observability-powers-agent-evaluation/",
+      "source": "LangChain Blog",
+      "description": "You can't build reliable agents without understanding how they reason, and you can't validate improvements without systematic evaluation.",
+      "publishedAt": "2026-02-22T03:51:44.000Z"
+    },
+    {
+      "title": "How to Use Memory in Agent Builder",
+      "url": "https://blog.langchain.com/how-to-use-memory-in-agent-builder/",
+      "source": "LangChain Blog",
+      "description": "By Jacob Talbot\nAgent Builder gets better the more you use it because it remembers your feedback. Every correction you make, preference you share, and approach that works well is something that your agent can hold onto and apply the next time.\nMemory is one of the things that makes",
+      "publishedAt": "2026-02-19T18:28:14.000Z"
+    },
+    {
+      "title": "New in Agent Builder: all new agent chat, file uploads + tool registry",
+      "url": "https://blog.langchain.com/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry/",
+      "source": "LangChain Blog",
+      "description": "Today, we're expanding what you can do with LangSmith Agent Builder. It’s an big update built around a simple idea: working with an agent should feel like working with a teammate.\nWe rebuilt Agent Builder around this idea. There is now an always available agent (”",
+      "publishedAt": "2026-02-18T15:55:08.000Z"
+    },
+    {
+      "title": "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1",
+      "url": "https://blog.langchain.com/customers-monday/",
+      "source": "LangChain Blog",
+      "description": "Learn how monday Service developed an eval-driven development framework for their customer-facing service agents.",
+      "publishedAt": "2026-02-18T08:05:53.000Z"
+    },
+    {
+      "title": "Improving Deep Agents with harness engineering",
+      "url": "https://blog.langchain.com/improving-deep-agents-with-harness-engineering/",
+      "source": "LangChain Blog",
+      "description": "TLDR: Our coding agent went from Top 30 to Top 5 on Terminal Bench 2.0. We only changed the harness. Here’s our approach to harness engineering (teaser: self-verification & tracing help a lot).\nThe Goal of Harness Engineering\nThe goal of a harness is to mold the",
+      "publishedAt": "2026-02-17T16:15:28.000Z"
+    },
+    {
+      "title": "On Agent Frameworks and Agent Observability",
+      "url": "https://blog.langchain.com/on-agent-frameworks-and-agent-observability/",
+      "source": "LangChain Blog",
+      "description": "Every time LLMs get better, the same question comes back: \"Do you still need an agent framework?\" It's a fair question. The best way to build agents changes as the models get more performant and evolve, but fundamentally, the agent is a system around the model,",
+      "publishedAt": "2026-02-13T02:23:40.000Z"
+    },
+    {
+      "title": "Join us for Interrupt: The Agent Conference",
+      "url": "https://blog.langchain.com/join-us-for-interrupt-the-agent-conference/",
+      "source": "LangChain Blog",
+      "description": "Interrupt - The Agent Conference by LangChain - is where builders come to learn what's actually working in production. This year, we're bringing together more than 1,000 developers, product leaders, researchers, and founders to share what's coming next for agents—and how",
+      "publishedAt": "2026-02-12T17:42:03.000Z"
+    },
+    {
+      "title": "The two patterns by which agents connect sandboxes",
+      "url": "https://blog.langchain.com/the-two-patterns-by-which-agents-connect-sandboxes/",
+      "source": "LangChain Blog",
+      "description": "Thank you to Nuno Campos from Witan Labs, Tomas Beran and Mikayel Harutyunyan from E2B, Jonathan Wall from Runloop, and Ben Guo from Zo Computer for their review and comments.\nTL;DR:\n\nMore and more agents need a workspace: a computer where they can run code, install packages, and access",
+      "publishedAt": "2026-02-10T16:32:35.000Z"
+    },
+    {
+      "title": "LangSmith is Now Available in Google Cloud Marketplace",
+      "url": "https://blog.langchain.com/langsmith-is-now-available-in-google-cloud-marketplace/",
+      "source": "LangChain Blog",
+      "description": "Today, we're thrilled to announce that LangSmith, the agent engineering platform from LangChain, is available in Google Cloud Marketplace. Google Cloud customers can now procure LangSmith through their existing Google Cloud accounts, enabling seamless billing, simplified procurement, and the ability to draw down on existing Google Cloud commitments.",
+      "publishedAt": "2026-02-10T02:47:44.000Z"
+    },
+    {
+      "title": "January 2026: LangChain Newsletter",
+      "url": "https://blog.langchain.com/january-2026-langchain-newsletter/",
+      "source": "LangChain Blog",
+      "description": "Read about the latest product updates, events, and content from the LangChain team",
+      "publishedAt": "2026-01-30T02:27:28.000Z"
+    },
+    {
+      "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
+      "url": "https://www.ycombinator.com/blog/adding-canada-back/",
+      "source": "Y Combinator Blog",
+      "description": "After hearing feedback from Canadian founders in our network, we are adding Canada back to our list of accepted countries of incorporation.",
+      "publishedAt": "2026-02-05T17:00:00.000Z"
+    },
+    {
+      "title": "Congratulations to EquipmentShare on Going Public",
+      "url": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare/",
+      "source": "Y Combinator Blog",
+      "description": "Today, EquipmentShare (YC W15) goes public. From Missouri to 373 locations nationwide, they've built the operating system construction has been missing—built by contractors, for contractors. Congrats to Jabbok, Willy, and the EquipmentShare team on a huge milestone.",
+      "publishedAt": "2026-01-23T15:59:00.000Z"
+    },
+    {
+      "title": "Announcing the YC AI Stack",
+      "url": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/",
+      "source": "Y Combinator Blog",
+      "description": "We've partnered with nearly two dozen companies to offer students who attend YC events a suite of over $25,000 in free credits for AI devtools.",
+      "publishedAt": "2026-01-16T20:40:39.000Z"
+    },
+    {
+      "title": "2026 Demo Day Dates",
+      "url": "https://www.ycombinator.com/blog/2026-demo-days/",
+      "source": "Y Combinator Blog",
+      "description": "We’re excited to share the Demo Day dates for 2026 so founders, investors, and our broader community can plan ahead.",
+      "publishedAt": "2025-12-18T19:44:54.000Z"
+    },
+    {
+      "title": "Meesho Goes Public",
+      "url": "https://www.ycombinator.com/blog/meesho-goes-public/",
+      "source": "Y Combinator Blog",
+      "description": "Meesho goes public today. From S16 to IPO, they’ve built one of India’s largest e-commerce platforms—empowering millions of small merchants to grow their businesses.\n\nCongrats to Vidit and Sanjeev on a decade of relentless building and listening to users!",
+      "publishedAt": "2025-12-10T04:32:10.000Z"
+    },
+    {
+      "title": "Congratulations to Groww",
+      "url": "https://www.ycombinator.com/blog/groww/",
+      "source": "Y Combinator Blog",
+      "description": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud.",
+      "publishedAt": "2025-11-12T03:47:51.000Z"
+    },
+    {
+      "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
+      "url": "https://www.ycombinator.com/blog/billiontoone/",
+      "source": "Y Combinator Blog",
+      "description": "Today, BillionToOne goes public, becoming YC's fourth publicly traded biotech company. More importantly, they have built one of the most important genetic tests in the U.S. Today, 1 in 11 babies born in the US are tested with BillionToOne's fetal genetic test.",
+      "publishedAt": "2025-11-06T15:52:00.000Z"
+    },
+    {
+      "title": "Meet YC's Newest Visiting Partners",
+      "url": "https://www.ycombinator.com/blog/ycs-newest-visiting-partners/",
+      "source": "Y Combinator Blog",
+      "description": "We're excited to announce that nine exceptional founders are joining us as Visiting Partners at YC: Matt Riley, Harshita Arora, Grey Baker, Christopher Golda, Raphael Schaad, Christina Gilbert, Francois Chaubard, Vivian Shen, and James Evans.",
+      "publishedAt": "2025-10-14T17:17:44.000Z"
+    },
+    {
+      "title": "YC x Coinbase RFS: Build Onchain",
+      "url": "https://www.ycombinator.com/blog/build-onchain/",
+      "source": "Y Combinator Blog",
+      "description": "We are entering the era of Fintech 3.0.\n\nRegulatory clarity, growing consumer adoption, and low-cost chains have paved the way for a golden age of building in crypto — and at YC, Base, and Coinbase, we want to fund builders to seize this moment.",
+      "publishedAt": "2025-09-23T15:00:58.000Z"
+    },
+    {
+      "title": "Ankit Gupta Joins YC as General Partner, Bringing Deep ML Expertise",
+      "url": "https://www.ycombinator.com/blog/welcome-ankit/",
+      "source": "Y Combinator Blog",
+      "description": "We’re thrilled to announce that Ankit Gupta is joining YC as our newest General Partner.\nAnkit has already worked with dozens of YC founders as a visiting partner in recent batches. He has a rare blend of deep machine learning expertise and firsthand startup experience that make him",
+      "publishedAt": "2025-09-12T16:00:00.000Z"
+    },
+    {
+      "title": "Dalton Caldwell’s Move to Partner Emeritus",
+      "url": "https://www.ycombinator.com/blog/dalton-caldwell-partner-emeritus/",
+      "source": "Y Combinator Blog",
+      "description": "After 12+ years, 25 batches, and working with more than a thousand startups, Dalton Caldwell is transitioning to Partner Emeritus at YC.\nDalton joined YC in 2011 and has contributed in a number of roles over the years, most recently as a Managing Partner. During his time here, he worked",
+      "publishedAt": "2025-06-12T18:36:17.000Z"
+    },
+    {
+      "title": "Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners",
+      "url": "https://www.ycombinator.com/blog/welcome-jon-and-andrew/",
+      "source": "Y Combinator Blog",
+      "description": "Over the last few batches, visiting partners Jon Xu and Andrew Miklas have become two of the most trusted voices in the YC community. They were both founders in YC’s Summer 2010 batch, and now, 15 years and two industry-shaping companies later, they’re back in a new role: General Partners at YC.",
+      "publishedAt": "2025-05-21T15:00:00.000Z"
+    },
+    {
+      "title": "Tyler Bosmeny built Clever into a $500M company–now he’s helping YC founders do the same as General Partner",
+      "url": "https://www.ycombinator.com/blog/welcome-tyler/",
+      "source": "Y Combinator Blog",
+      "description": "We’re thrilled to welcome Tyler Bosmeny back to YC, this time as a General Partner.",
+      "publishedAt": "2025-04-01T16:00:00.000Z"
+    },
+    {
+      "title": "Michael Seibel's Legacy Continues at YC: Transition to Partner Emeritus",
+      "url": "https://www.ycombinator.com/blog/michael-seibel-partner-emeritus/",
+      "source": "Y Combinator Blog",
+      "description": "If you’ve been around YC, you know Michael Seibel has been a huge part of it for over a decade. He’s done it all - YC Founder (w07, w12), Group Partner, and Managing Director/CEO of the YC accelerator. Along the way, he’s helped",
+      "publishedAt": "2025-03-20T00:00:00.000Z"
+    },
+    {
+      "title": "East Coast College Tour 2025",
+      "url": "https://www.ycombinator.com/blog/east-coast-college-tour-2025/",
+      "source": "Y Combinator Blog",
+      "description": "YC is going on a college tour! We're visiting Harvard, Yale, MIT, Columbia, Cornell, and Cornell Tech. \n\nIf you're a current student at any of those schools and interested in startups, we'd love to meet you.",
+      "publishedAt": "2025-03-13T21:26:20.000Z"
+    },
+    {
+      "title": "GPT-5.4 🤖, Anthropic's leaked memo 📝, Claude Code auto mode 🧑‍💻",
+      "url": "https://tldr.tech/tech/2026-03-06",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "title": "MacBook Neo 💻, Google Workspace CLI 🧑‍💻, AI's bear case 🤖",
+      "url": "https://tldr.tech/tech/2026-03-05",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-05T00:00:00.000Z"
+    },
+    {
+      "title": "M5 Max MacBooks 💻, GPT-5.3 Instant 🤖, end of code reviews 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-03-04",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-04T00:00:00.000Z"
+    },
+    {
+      "title": "iPhone 17e 📱, SpaceX tower catch plan 🚀, how to save SaaS 💼`",
+      "url": "https://tldr.tech/tech/2026-03-03",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-03T00:00:00.000Z"
+    },
+    {
+      "title": "Anthropic vs Pentagon 🤖, SpaceX eyes March IPO 💰, lessons building Claude Code 🧑‍💻 ",
+      "url": "https://tldr.tech/tech/2026-03-02",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "title": "Nano Banana 2 🍌, Netflix loses WB bid 🎬, Block's AI layoff 💼",
+      "url": "https://tldr.tech/tech/2026-02-27",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-27T00:00:00.000Z"
+    },
+    {
+      "title": "Jane Street vs Bitcoin 🪙, AGI career decisions 💼, Vercel Chat SDK 🤖",
+      "url": "https://tldr.tech/tech/2026-02-26",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-26T00:00:00.000Z"
+    },
+    {
+      "title": "Meta's $100B deal 💰, Pentagon threatens Anthropic 🏛️, chinese vibe coders 🧑‍💻",
+      "url": "https://tldr.tech/tech/2026-02-25",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-25T00:00:00.000Z"
+    },
+    {
+      "title": "Anthropic data harvested 🤖, AI memo crashes stocks 📉, don't quit your job 💼",
+      "url": "https://tldr.tech/tech/2026-02-24",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-24T00:00:00.000Z"
+    },
+    {
+      "title": "OpenAI's smart speaker 📢, Apple visual intelligence 👀, Code Mode 🧑‍💻",
+      "url": "https://tldr.tech/tech/2026-02-23",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-23T00:00:00.000Z"
+    },
+    {
+      "title": "Gemini 3.1 Pro 🤖, OpenAI's strategic issues 💡, building AI eng culture 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-02-20",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-20T00:00:00.000Z"
+    },
+    {
+      "title": "Meta smartwatch ⌚, Zuckerberg testifies ⚖️, GitHub Agentic Workflows 🤖",
+      "url": "https://tldr.tech/tech/2026-02-19",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-19T00:00:00.000Z"
+    },
+    {
+      "title": "Apple wearables 👓, Tesla's first Cybercab 🚕, state of coding agents 🧑‍💻",
+      "url": "https://tldr.tech/tech/2026-02-18",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-18T00:00:00.000Z"
+    },
+    {
+      "title": "SpaceX drone swarms 🚁, Apple video podcasts 📱, AI isn't a bubble 🤖",
+      "url": "https://tldr.tech/tech/2026-02-17",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-17T00:00:00.000Z"
+    },
+    {
+      "title": "OpenAI hires OpenClaw dev 🦞, ByteDance AI video 📱, cognitive debt 🧠",
+      "url": "https://tldr.tech/tech/2026-02-16",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-16T00:00:00.000Z"
+    },
+    {
+      "title": "Anthropic's growth 📈, Waymo's new taxi 🚕, OpenAI's ultra-fast Codex 🤖",
+      "url": "https://tldr.tech/tech/2026-02-13",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-13T00:00:00.000Z"
+    },
+    {
+      "title": "xAI public all hands 🤖, inside Siri revamp 📱, AI changing everything 🌍  ",
+      "url": "https://tldr.tech/tech/2026-02-12",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-12T00:00:00.000Z"
+    },
+    {
+      "title": "Elon's moon factory 🚀, Chrome WebMCP 🤖, Stripe minions 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-02-11",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-11T00:00:00.000Z"
+    },
+    {
+      "title": "ChatGPT growth leaks 📈, rise of Reddit search 🔍, Opus 4.6 vs Codex 5.3 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-02-10",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-10T00:00:00.000Z"
+    },
+    {
+      "title": "SpaceX prioritizes moon 🚀, Anthropic's hivemind 🤖, software factories 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-02-09",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-09T00:00:00.000Z"
+    }
+  ]
+}

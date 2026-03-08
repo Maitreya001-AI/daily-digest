@@ -275,54 +275,86 @@ Here are the raw items:
 ${itemsJson}`;
 }
 
-function callAI(rawItems: RawItem[]): DailyDigest | null {
+function parseJsonFromText(text: string): any {
+  const cleaned = text.trim();
+  if (!cleaned) throw new Error("Empty AI payload text");
+
+  // 1) direct JSON
   try {
-    log("Calling openclaw agent for AI selection...");
-    const prompt = buildPrompt(rawItems);
+    return JSON.parse(cleaned);
+  } catch {}
 
-    // Write prompt to a temp file to avoid shell argument length limits
-    const tmpFile = path.join(PROJECT_ROOT, ".tmp-prompt.txt");
-    fs.writeFileSync(tmpFile, prompt, "utf-8");
+  // 2) fenced code block
+  const fenceMatch = cleaned.match(/```(?:json)?\s*([\s\S]*?)\s*```/i);
+  if (fenceMatch?.[1]) {
+    try {
+      return JSON.parse(fenceMatch[1].trim());
+    } catch {}
+  }
 
-    const result = execSync(
+  // 3) first object slice
+  const start = cleaned.indexOf("{");
+  const end = cleaned.lastIndexOf("}");
+  if (start >= 0 && end > start) {
+    const obj = cleaned.slice(start, end + 1);
+    return JSON.parse(obj);
+  }
+
+  throw new Error("Cannot parse JSON from AI payload text");
+}
+
+function callAI(rawItems: RawItem[]): DailyDigest {
+  log("Calling openclaw agent for AI selection...");
+  const prompt = buildPrompt(rawItems);
+
+  // Write prompt to a temp file to avoid shell argument length limits
+  const tmpFile = path.join(PROJECT_ROOT, ".tmp-prompt.txt");
+  fs.writeFileSync(tmpFile, prompt, "utf-8");
+
+  let result = "";
+  try {
+    result = execSync(
       // Use an explicit agent so the CLI doesn't require --to/--session-id
       `openclaw agent --agent main --message "$(cat ${JSON.stringify(tmpFile)})" --json`,
       {
         encoding: "utf-8",
         maxBuffer: 50 * 1024 * 1024, // 50 MB
-        timeout: 8 * 60 * 1000, // 8 minutes (AI selection can take longer)
+        timeout: 8 * 60 * 1000, // 8 minutes
         cwd: PROJECT_ROOT,
       }
     );
-
-    // Clean up temp file
+  } finally {
     try { fs.unlinkSync(tmpFile); } catch {}
-
-    // Parse the JSON response
-    const parsed = JSON.parse(result);
-
-    // openclaw agent --json returns a wrapper; the actual model text is usually in:
-    // parsed.result.payloads[0].text
-    let candidate: any = parsed;
-    const payloadText = parsed?.result?.payloads?.[0]?.text;
-    if (typeof payloadText === "string" && payloadText.trim().length > 0) {
-      // payloadText itself should be a JSON string per our prompt
-      candidate = JSON.parse(payloadText);
-    } else if (parsed?.date && parsed?.cards) {
-      candidate = parsed;
-    } else if (parsed?.result?.date && parsed?.result?.cards) {
-      candidate = parsed.result;
-    } else if (parsed?.output?.date && parsed?.output?.cards) {
-      candidate = parsed.output;
-    }
-
-    const validated = DailyDigestSchema.parse(candidate);
-    log(`AI selection complete: ${validated.cards.length} cards across domains.`);
-    return validated;
-  } catch (err) {
-    logError("AI selection", err);
-    return null;
   }
+
+  const parsed = JSON.parse(result);
+
+  let candidate: any = parsed;
+  const payloadText = parsed?.result?.payloads?.[0]?.text;
+  if (typeof payloadText === "string" && payloadText.trim().length > 0) {
+    candidate = parseJsonFromText(payloadText);
+  } else if (parsed?.date && parsed?.cards) {
+    candidate = parsed;
+  } else if (parsed?.result?.date && parsed?.result?.cards) {
+    candidate = parsed.result;
+  } else if (parsed?.output?.date && parsed?.output?.cards) {
+    candidate = parsed.output;
+  }
+
+  const validated = DailyDigestSchema.parse(candidate);
+
+  // hard quality guard: no placeholder/fallback text allowed
+  const bad = validated.cards.find(
+    (c) => /fallback|占位|待补/i.test(c.summary) || /fallback|占位|待补/i.test(c.insight)
+  );
+  if (bad) throw new Error(`Invalid placeholder content found in card: ${bad.title}`);
+
+  if (validated.cards.length < 20) {
+    throw new Error(`Too few cards generated: ${validated.cards.length} (<20)`);
+  }
+
+  log(`AI selection complete: ${validated.cards.length} cards across domains.`);
+  return validated;
 }
 
 // ---------------------------------------------------------------------------
@@ -431,16 +463,10 @@ async function main() {
   fs.writeFileSync(rawPath, JSON.stringify(rawDigest, null, 2), "utf-8");
   log(`Saved raw items to ${rawPath}`);
 
-  // 3. Call AI selection pipeline
-  let digest = callAI(allItems);
+  // 3. Call AI selection pipeline (hard requirement: must succeed)
+  const digest = callAI(allItems);
 
-  // 4. If AI failed, use fallback
-  if (!digest) {
-    log("AI selection failed, using fallback categorisation.");
-    digest = buildFallbackDigest(allItems);
-  }
-
-  // 5. Save final digest
+  // 4. Save final digest
   const digestPath = path.join(DATA_DIR, `${TODAY}.json`);
   fs.writeFileSync(digestPath, JSON.stringify(digest, null, 2), "utf-8");
   log(`Saved digest to ${digestPath}`);
