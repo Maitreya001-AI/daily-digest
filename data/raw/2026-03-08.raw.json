@@ -1,0 +1,1494 @@
+{
+  "date": "2026-03-08",
+  "fetchedAt": "2026-03-08T14:39:21.513Z",
+  "items": [
+    {
+      "title": "Yoghurt delivery women combatting loneliness in Japan",
+      "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+      "source": "Hacker News",
+      "score": 337,
+      "publishedAt": "2026-03-07T13:12:40Z"
+    },
+    {
+      "title": "A decade of Docker containers",
+      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "source": "Hacker News",
+      "score": 325,
+      "publishedAt": "2026-03-07T16:55:18Z"
+    },
+    {
+      "title": "CasNum",
+      "url": "https://github.com/0x0mer/CasNum",
+      "source": "Hacker News",
+      "score": 308,
+      "publishedAt": "2026-03-07T20:43:51Z"
+    },
+    {
+      "title": "Cloud VM benchmarks 2026",
+      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "source": "Hacker News",
+      "score": 282,
+      "publishedAt": "2026-03-08T00:44:32Z"
+    },
+    {
+      "title": "How to run Qwen 3.5 locally",
+      "url": "https://unsloth.ai/docs/models/qwen3.5",
+      "source": "Hacker News",
+      "score": 272,
+      "publishedAt": "2026-03-07T23:32:17Z"
+    },
+    {
+      "title": "Files are the interface humans and agents interact with",
+      "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
+      "source": "Hacker News",
+      "score": 257,
+      "publishedAt": "2026-03-07T10:48:43Z"
+    },
+    {
+      "title": "Warn about PyPy being unmaintained",
+      "url": "https://github.com/astral-sh/uv/pull/17643",
+      "source": "Hacker News",
+      "score": 249,
+      "publishedAt": "2026-03-08T01:35:21Z"
+    },
+    {
+      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+      "source": "Hacker News",
+      "score": 224,
+      "publishedAt": "2026-03-06T07:17:48Z"
+    },
+    {
+      "title": "FLASH radiotherapy's bold approach to cancer treatment",
+      "url": "https://spectrum.ieee.org/flash-radiotherapy",
+      "source": "Hacker News",
+      "score": 218,
+      "publishedAt": "2026-03-07T15:33:36Z"
+    },
+    {
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "source": "Hacker News",
+      "score": 161,
+      "publishedAt": "2026-03-08T10:54:32Z"
+    },
+    {
+      "title": "The surprising whimsy of the Time Zone Database",
+      "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+      "source": "Hacker News",
+      "score": 153,
+      "publishedAt": "2026-03-07T18:32:05Z"
+    },
+    {
+      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+      "url": "https://github.com/karpathy/autoresearch",
+      "source": "Hacker News",
+      "score": 142,
+      "publishedAt": "2026-03-07T20:22:45Z"
+    },
+    {
+      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+      "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+      "source": "Hacker News",
+      "score": 126,
+      "publishedAt": "2026-03-04T14:16:31Z"
+    },
+    {
+      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+      "source": "Hacker News",
+      "score": 95,
+      "publishedAt": "2026-03-05T10:23:15Z"
+    },
+    {
+      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+      "url": "https://arxiv.org/abs/2603.03823",
+      "source": "Hacker News",
+      "score": 83,
+      "publishedAt": "2026-03-08T08:11:50Z"
+    },
+    {
+      "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
+      "url": "https://xcancel.com/theflow0/status/2030011206040256841",
+      "source": "Hacker News",
+      "score": 82,
+      "publishedAt": "2026-03-08T12:40:14Z"
+    },
+    {
+      "title": "Notes on Writing WASM",
+      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "source": "Hacker News",
+      "score": 78,
+      "publishedAt": "2026-03-08T09:24:54Z"
+    },
+    {
+      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+      "source": "Hacker News",
+      "score": 74,
+      "publishedAt": "2026-03-04T15:42:49Z"
+    },
+    {
+      "title": "From RGB to L*a*b* color space (2024)",
+      "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+      "source": "Hacker News",
+      "score": 65,
+      "publishedAt": "2026-03-04T09:24:13Z"
+    },
+    {
+      "title": "How Big Diaper absorbs billions of extra dollars from American parents",
+      "url": "https://thehustle.co/originals/how-big-diaper-absorbs-billions-of-extra-dollars-from-american-parents",
+      "source": "Hacker News",
+      "score": 58,
+      "publishedAt": "2026-03-08T13:12:15Z"
+    },
+    {
+      "title": "The Lobster Programming Language",
+      "url": "https://strlen.com/lobster/",
+      "source": "Hacker News",
+      "score": 56,
+      "publishedAt": "2026-03-03T22:24:54Z"
+    },
+    {
+      "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
+      "url": "https://curiosity-telescope.vercel.app/",
+      "source": "Hacker News",
+      "description": "A DIY Newtonian reflector telescope with dobsonian mount. A fun to do hobby project taking us closer to the moon and beyond. A lot of plans ahead on how  to make it much better and portable but this was the first time me and my friend implemented or rather built a telescope.<p>Have a look at what all we have captured.",
+      "score": 52,
+      "publishedAt": "2026-03-08T07:16:15Z"
+    },
+    {
+      "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+      "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+      "source": "Hacker News",
+      "score": 50,
+      "publishedAt": "2026-03-04T13:39:34Z"
+    },
+    {
+      "title": "Some Words on WigglyPaint",
+      "url": "https://beyondloom.com/blog/onwigglypaint.html",
+      "source": "Hacker News",
+      "score": 49,
+      "publishedAt": "2026-03-07T01:21:47Z"
+    },
+    {
+      "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
+      "url": "https://github.com/ataraxy-labs/sem",
+      "source": "Hacker News",
+      "score": 45,
+      "publishedAt": "2026-03-08T06:01:26Z"
+    },
+    {
+      "title": "The New Apple Begins to Emerge",
+      "url": "https://parkerortolani.blog/2026/03/07/the-new-apple-finally-begins.html",
+      "source": "Hacker News",
+      "score": 35,
+      "publishedAt": "2026-03-08T13:08:44Z"
+    },
+    {
+      "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
+      "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
+      "source": "Hacker News",
+      "score": 31,
+      "publishedAt": "2026-03-08T11:04:04Z"
+    },
+    {
+      "title": "Digital Iris [video]",
+      "url": "https://www.youtube.com/watch?v=Kg_2MAgS_pE",
+      "source": "Hacker News",
+      "score": 27,
+      "publishedAt": "2026-03-04T16:16:23Z"
+    },
+    {
+      "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+      "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+      "source": "Hacker News",
+      "score": 21,
+      "publishedAt": "2026-03-05T07:36:22Z"
+    },
+    {
+      "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+      "url": "https://github.com/kantord/blogtato",
+      "source": "Hacker News",
+      "score": 10,
+      "publishedAt": "2026-03-08T13:16:14Z"
+    },
+    {
+      "title": "How long do you think before pornstars are completely replaced by AI?",
+      "url": "https://www.reddit.com/r/artificial/comments/1rntuvm/how_long_do_you_think_before_pornstars_are/",
+      "source": "Reddit r/artificial",
+      "description": "TLDR: Adult stars are quickly finding themselves out of work.\n\nGiven the rise of AI generated porn within the last few years and how quickly it has improved in that time, adult entertainers like pornstars and Onlyfans creator will likely be completely replaced by Artificial intelligence within the decade. AI porn already is generating almost half of the adult star industries 140+ billion dollar a year revenues with an estimated $65.5 billion in 2024 and that number growing each year. AI already ",
+      "score": 85,
+      "publishedAt": "2026-03-08T03:21:39.000Z"
+    },
+    {
+      "title": "Unpopular opinion: most AI agent use cases are productivity theater",
+      "url": "https://www.reddit.com/r/artificial/comments/1rnom51/unpopular_opinion_most_ai_agent_use_cases_are/",
+      "source": "Reddit r/artificial",
+      "description": "Watched a Chase AI video where he breaks down six \"life-changing\" OpenClaw use cases. Second brain, morning briefs, content factories, the usual. His take:\n\n,\n\nThey all fall apart under basic scrutiny. I agree.\n\n\n\nThe pattern is always the same. Impressive two-minute demo. Zero discussion of what it actually takes to make it work daily. Zero mention of cost. OpenClaw runs continuous sessions, so every task drags your entire context history with it. Your token bill adds up fast.\n\nThe irony is the",
+      "score": 55,
+      "publishedAt": "2026-03-07T23:19:57.000Z"
+    },
+    {
+      "title": "OpenAI Robotics head resigns after deal with Pentagon",
+      "url": "https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/",
+      "source": "Reddit r/artificial",
+      "score": 59,
+      "publishedAt": "2026-03-07T21:44:33.000Z"
+    },
+    {
+      "title": "Anthropic'c Claude found 22 vulnerabilities in Firefox in just two weeks",
+      "url": "https://i.redd.it/81yz4h35dhng1.png",
+      "source": "Reddit r/artificial",
+      "score": 5,
+      "publishedAt": "2026-03-08T10:53:35.000Z"
+    },
+    {
+      "title": "Lab Notes: Toward Ongoing Learning in Artificial Intelligence",
+      "url": "https://www.reddit.com/r/artificial/comments/1ro6cdp/lab_notes_toward_ongoing_learning_in_artificial/",
+      "source": "Reddit r/artificial",
+      "description": "&gt;\n\nThere is a question sitting underneath most serious thinking about AI systems that rarely gets asked directly: why doesn't it learn?\n\nNot learn during training — that part works. But learn the way humans learn. Continuously, experientially, from correction. The way a person who makes a mistake on Tuesday is slightly different on Wednesday because of it.\n\nCurrent large language models don't do this. After training weights are frozen. Every conversation that follows — every correction, every",
+      "score": 1,
+      "publishedAt": "2026-03-08T14:32:53.000Z"
+    },
+    {
+      "title": "Introducing Sentinel Gateway: a robust solution for AI Agent Authorization enforcement at the execution level.",
+      "url": "https://www.reddit.com/r/artificial/comments/1ro5v03/introducing_sentinel_gateway_a_robust_solution/",
+      "source": "Reddit r/artificial",
+      "description": "Introducing Sentinel Gateway: a robust solution for AI Agent Authorization enforcement at the execution level.\n\nSentinel safeguards against prompt injection, eliminating concerns about trojan horse files that may contain hidden instructions. You no longer need to worry about unauthorized requests to email confidential customer information, save malware, or delete your entire production database.\n\nKey features of Sentinel Gateway include:\n\n- **Agent Agnostic SDK**: Set up in just 15 minutes with ",
+      "score": 1,
+      "publishedAt": "2026-03-08T14:11:47.000Z"
+    },
+    {
+      "title": "Using AI agents for autonomous financial trading — what's actually working?",
+      "url": "https://www.reddit.com/r/artificial/comments/1ro43g0/using_ai_agents_for_autonomous_financial_trading/",
+      "source": "Reddit r/artificial",
+      "description": "Interested in applying AI agents to trade markets (stocks, forex, crypto) fully autonomously — research, reasoning, execution. Less interested in theory, more in what people have actually built and where the real limitations are. Anyone working on this or seen solid builds in the wild?",
+      "score": 1,
+      "publishedAt": "2026-03-08T12:50:07.000Z"
+    },
+    {
+      "title": "Position paper on AI oversight quality as a training signal — written with Claude, by an actuary. Feedback welcome on whether the mechanism holds.",
+      "url": "https://www.reddit.com/r/artificial/comments/1ro3xzb/position_paper_on_ai_oversight_quality_as_a/",
+      "source": "Reddit r/artificial",
+      "description": "The Anthropic/Pentagon situation in February prompted me to think about a governance problem I haven't seen framed quite this way: not whether AI companies should refuse certain uses, but what happens to AI models when human oversight of their outputs is low-quality or perfunctory — and that pattern makes it into training data.\n\nThe argument in brief: if AI succeeds in contexts where humans aren't genuinely reviewing its outputs, and those successes are treated as positive training signals, we m",
+      "score": 0,
+      "publishedAt": "2026-03-08T12:42:29.000Z"
+    },
+    {
+      "title": "‘It means missile defence on data centres’: drone strikes raises doubts over Gulf as AI superpower | US-Israel war on Iran | The Guardian",
+      "url": "https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower",
+      "source": "Reddit r/artificial",
+      "score": 38,
+      "publishedAt": "2026-03-07T11:30:25.000Z"
+    },
+    {
+      "title": "CodeGraphContext - An MCP server that converts your codebase into a graph database, enabling AI assistants and humans to retrieve precise, structured context",
+      "url": "https://v.redd.it/oefx3wih6ong1",
+      "source": "Reddit r/artificial",
+      "description": "## CodeGraphContext- the go to solution for graphical code indexing for Github Copilot or any IDE of your choice\n\nIt's an MCP server that understands a codebase as a **graph**, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption.\n\n### Where it is now\n\n- **v0.2.6 released**\n- ~**1k GitHub stars**, ~**325 forks**\n- **50k+ downloads**\n- **75+ contributors, ~150 members community**\n- Used and praised by many devs building MCP tooling, agents, and IDE workf",
+      "score": 1,
+      "publishedAt": "2026-03-07T18:53:27.000Z"
+    },
+    {
+      "title": "When DOGE Unleashed ChatGPT on the Humanities (Gift Article)",
+      "url": "https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html?unlocked_article_code=1.RVA.Bd8D.OkH3n_4SroUM&amp;smid=url-share",
+      "source": "Reddit r/artificial",
+      "description": "A particularly terrible example of this misuse of an LLM:\n\n“The plaintiffs’ lawyers also noted that Mr. Fox’s original ChatGPT search flagged a number of projects relating to the Holocaust, including the documentary about Jewish women who were slave laborers.\n\nAsked if he agreed with ChatGPT, Mr. Fox said: “It’s a Jewish — specifically focused on Jewish culture and amplifying the marginalized voices of the females in that culture. It’s inherently related to D.E.I. for that reason.””",
+      "score": 0,
+      "publishedAt": "2026-03-07T20:55:14.000Z"
+    },
+    {
+      "title": "Pentagon taps former DOGE official to lead its AI efforts",
+      "url": "https://www.reuters.com/world/us/pentagon-taps-former-doge-official-lead-its-ai-efforts-2026-03-06/",
+      "source": "Reddit r/artificial",
+      "score": 45,
+      "publishedAt": "2026-03-06T23:58:57.000Z"
+    },
+    {
+      "title": "I created a mathematical framework for AI Alignment and I would like to work with people in the alignment community as collaborators. I appreciate all the help and support I can get.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rnf8fx/i_created_a_mathematical_framework_for_ai/",
+      "source": "Reddit r/artificial",
+      "description": "[TRC: Trust Regulation and Containment A Predictive, Physics-Inspired Safety Framework for Large Language Models](https://zenodo.org/records/18885528)\n\nTRC: Trust Regulation and Containment\n\nA Predictive, Physics-Inspired Safety Framework for Large Language Models\n\nKevin Couch\n\nAbstract\n\nLarge language models exhibit structural failure modes—hallucination, semantic drift,\n\nsycophancy, and dyadic dissociation—that cause measurable harm, particularly to vulner-\n\nable users. TRC (Trust Regulation a",
+      "score": 1,
+      "publishedAt": "2026-03-07T17:07:27.000Z"
+    },
+    {
+      "title": "OpenAI launches GPT-5.4: New model hits 83% on pro-level knowledge benchmark",
+      "url": "https://interestingengineering.com/ai-robotics/gpt-5-4-openai-ai-model-release",
+      "source": "Reddit r/artificial",
+      "score": 77,
+      "publishedAt": "2026-03-06T16:27:10.000Z"
+    },
+    {
+      "title": "Built a tool that geolocated the missile strikes in Qatar using AI",
+      "url": "https://v.redd.it/79qpu2iz7eng1",
+      "source": "Reddit r/artificial",
+      "description": "Hey guys, some of you might remember me. I built a tool called Netryx that can geolocate any pic down to its exact coordinates. I used it to find the exact locations of the debris fallout in Doha.\n\nCoordinates: 25.212738, 51.427792",
+      "score": 63,
+      "publishedAt": "2026-03-06T09:24:00.000Z"
+    },
+    {
+      "title": "Final Qwen3.5 Unsloth GGUF Update!",
+      "url": "https://i.redd.it/9vw1iichx8ng1.png",
+      "source": "Reddit r/artificial",
+      "score": 10,
+      "publishedAt": "2026-03-06T16:26:55.000Z"
+    },
+    {
+      "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk, Escalating Conflict",
+      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+      "source": "Reddit r/artificial",
+      "score": 239,
+      "publishedAt": "2026-03-05T20:11:33.000Z"
+    },
+    {
+      "title": "AI model predicts Alzheimer's from MRI brain volume loss with 92.87% accuracy",
+      "url": "https://medicalxpress.com/news/2026-03-ai-alzheimer-mri-brain-volume.html",
+      "source": "Reddit r/artificial",
+      "description": "WPI researchers have used a form of artificial intelligence (AI) to analyze anatomical changes in the brain and predict Alzheimer's disease with nearly 93% accuracy. Their research, [published](https://linkinghub.elsevier.com/retrieve/pii/S0306452225011777) in the journal *Neuroscience*, also revealed that the anatomical changes, involving loss of brain volume, differ by age and sex.\n\n\"Early diagnosis of Alzheimer's disease can be difficult because symptoms can be mistaken for normal aging,\" say",
+      "score": 86,
+      "publishedAt": "2026-03-06T00:43:19.000Z"
+    },
+    {
+      "title": "Meta to let rival AI companies put their chatbots on WhatsApp, but it won't be cheap",
+      "url": "https://www.pcguide.com/pro/news-pro/meta-to-let-rival-ai-companies-put-their-chatbots-on-whatsapp-but-it-wont-be-cheap/",
+      "source": "Reddit r/artificial",
+      "score": 0,
+      "publishedAt": "2026-03-06T15:42:32.000Z"
+    },
+    {
+      "title": "AI-designed diffractive optical processors pave the way for low-power structural health monitoring",
+      "url": "https://phys.org/news/2026-03-ai-diffractive-optical-processors-pave.html",
+      "source": "Reddit r/artificial",
+      "description": "A team of researchers at the University of California, Los Angeles (UCLA) has introduced a novel framework for monitoring structural vibrations using diffractive optical processors. This new technology uses artificial intelligence to co-optimize a passive diffractive layer and a shallow neural network, allowing the system to encode time-varying mechanical vibrations into distinct spatiotemporal optical patterns.\n\nStructural Health Monitoring (SHM) systems are vital for assessing the condition of",
+      "score": 3,
+      "publishedAt": "2026-03-06T00:33:00.000Z"
+    },
+    {
+      "title": "[P] VeridisQuo - open-source deepfake detector that combines spatial + frequency analysis and shows you where the face was manipulated",
+      "url": "https://i.redd.it/j51nr1pqomng1.gif",
+      "source": "Reddit r/MachineLearning",
+      "description": "Hey everyone,\n\nMy teammate and I just finished our deepfake detection project for university and wanted to share it. The idea started pretty simple: most detectors only look at pixel-level features, but deepfake generators leave traces in the frequency domain too (compression artifacts, spectral inconsistencies...). So we thought, why not use both?\n\n**How it works**\n\nWe have two streams running in parallel on each face crop:\n\n* An EfficientNet-B4 that handles the spatial/visual side (pretrained ",
+      "score": 357,
+      "publishedAt": "2026-03-07T13:53:29.000Z"
+    },
+    {
+      "title": "[P] TraceML: wrap your PyTorch training step in single context manager and see what’s slowing training live",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rnlo0q/p_traceml_wrap_your_pytorch_training_step_in/",
+      "source": "Reddit r/MachineLearning",
+      "description": "[End-summary](https://preview.redd.it/l1cjc4kuvong1.png?width=1678&amp;format=png&amp;auto=webp&amp;s=f51761e80bf3cf15215e009d8d26e19131c86fbe)\n\nBuilding **TraceML**, an open-source tool for PyTorch training runtime visibility.\n\nYou add a single context manager:\n\n    with trace_step(model):\n        ...\n\nand get a live view of training while it runs:\n\n* dataloader fetch time\n* forward / backward / optimizer timing\n* GPU memory\n* median vs worst rank in single-node DDP\n* skew to surface imbalance\n",
+      "score": 26,
+      "publishedAt": "2026-03-07T21:17:37.000Z"
+    },
+    {
+      "title": "[D] Is it a reg flag that my PhD topic keeps changing every few months?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rneeic/d_is_it_a_reg_flag_that_my_phd_topic_keeps/",
+      "source": "Reddit r/MachineLearning",
+      "description": "I'm a first-year PhD student and noticed that I'm not funneling down a topic during my PhD but covering a very broad topics within my domain. My core topic is a niche and I'm probably on application side, applying it to very broad range of topics.\n\nI'm loving it and I feel it might be a red flag. That instead of mastering an art, I'm just playing around random topics (by how it looks on my CV)",
+      "score": 37,
+      "publishedAt": "2026-03-07T16:34:53.000Z"
+    },
+    {
+      "title": "[D] Image Augmentation in Practice: In-Distribution vs OOD Augmentations, TTA, and the Manifold View",
+      "url": "https://i.redd.it/wsjk3r0xcmng1.jpeg",
+      "source": "Reddit r/MachineLearning",
+      "description": "I wrote a long practical guide on image augmentation based on \\~10 years of training computer vision models and \\~7 years working on Albumentations.\n\nIn practice I’ve found that augmentation operates in two different regimes:\n\n1. In-distribution augmentation Simulate realistic variation that could occur during data collection (pose, lighting, blur, noise).\n2. Out-of-distribution augmentation Transforms that are intentionally unrealistic but act as regularization (extreme color jitter, grayscale,",
+      "score": 42,
+      "publishedAt": "2026-03-07T12:46:06.000Z"
+    },
+    {
+      "title": "[P] Combining Stanford's ACE paper with the Reflective Language Model pattern - agents that write code to analyze their own execution traces at scale",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rnebal/p_combining_stanfords_ace_paper_with_the/",
+      "source": "Reddit r/MachineLearning",
+      "description": "I combined two recent approaches, Stanford's ACE and the Reflective Language Model pattern, to build agents that write code to analyze their own execution traces.\n\n**Quick context on both:**\n\n* **ACE** ([arxiv](https://arxiv.org/abs/2510.04618)): agents learn from execution feedback through a Reflector (LLM-as-a-judge) and SkillManager that curate a Skillbook of strategies. No fine-tuning, just in-context learning.\n* **RLM** ([arxiv](https://arxiv.org/abs/2512.24601)): instead of loading full in",
+      "score": 14,
+      "publishedAt": "2026-03-07T16:31:14.000Z"
+    },
+    {
+      "title": "[R] Large scale evals for multimodal composed search",
+      "url": "https://github.com/pinterest/pinpoint-dataset",
+      "source": "Reddit r/MachineLearning",
+      "description": "Good to see industry labs spending more time on curating large eval sets, benefits small research groups so much",
+      "score": 1,
+      "publishedAt": "2026-03-08T03:37:41.000Z"
+    },
+    {
+      "title": "[P] Introducing NNsight v0.6: Open-source Interpretability Toolkit for LLMs",
+      "url": "https://nnsight.net/blog/2026/02/26/introducing-nnsight-06/",
+      "source": "Reddit r/MachineLearning",
+      "score": 5,
+      "publishedAt": "2026-03-07T17:42:55.000Z"
+    },
+    {
+      "title": "[D] unpopular opinion: instruct tuning is going to be a thing of the past.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ro5a9c/d_unpopular_opinion_instruct_tuning_is_going_to/",
+      "source": "Reddit r/MachineLearning",
+      "description": "Instruct tuning inherently hurts the model. The ‘alignment tax’ is well documented: you trade knowledge for communication ability. My approach separates the two completely. A snap-on communication head operates after the model has already decided its answer, so it can’t damage the knowledge. 0.0% MMLU change at 7B.\n\nOn SmolLM2-360M, my adapter scored 52% safety refusal. The official instruct version? 8%.\n\nNot all the way there on constraint following yet (50% vs 90%), but I’ve only tried two ‘he",
+      "score": 0,
+      "publishedAt": "2026-03-08T13:46:13.000Z"
+    },
+    {
+      "title": "[R] Low-effort papers",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rmk49w/r_loweffort_papers/",
+      "source": "Reddit r/MachineLearning",
+      "description": "I came across a professor with 100+ published papers, and the pattern is striking. Almost every paper follows the same formula: take a new YOLO version (v8, v9, v10, v11...), train it on a public dataset from Roboflow, report results, and publish. Repeat for every new YOLO release and every new application domain.\n\n[https://scholar.google.com/scholar?hl=en&amp;as\\_sdt=0%2C5&amp;q=%22murat+bakirci%22+%22yolo%22&amp;btnG=](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C5&amp;q=%22murat+ba",
+      "score": 239,
+      "publishedAt": "2026-03-06T17:21:55.000Z"
+    },
+    {
+      "title": "[R] Graph-Oriented Generation (GOG): Replacing Vector R.A.G. for Codebases with Deterministic AST Traversal (70% Average Token Reduction)",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rmz1zr/r_graphoriented_generation_gog_replacing_vector/",
+      "source": "Reddit r/MachineLearning",
+      "description": "Hey everyone. I’m a 5 YoE full-stack engineer who has been crossing over into AI research. Like many of you, I got incredibly frustrated with Vector RAG hallucinating import paths and losing context when navigating deep codebases.\n\nRAG treats strict software architecture like a probabilistic novel. I wanted to see what happened if we treated it like a mathematical graph instead. I wrote a white paper and built a framework around this concept called **Graph-Oriented Generation (GOG)**.\n\nThe core ",
+      "score": 31,
+      "publishedAt": "2026-03-07T03:25:57.000Z"
+    },
+    {
+      "title": "[D] Two college students built a prototype that tries to detect contradictions between research papers — curious if this would actually be useful",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rmjcyk/d_two_college_students_built_a_prototype_that/",
+      "source": "Reddit r/MachineLearning",
+      "description": "Hi everyone,\n\nWe’re two college students who spend way too much time reading papers for projects, and we kept running into the same frustrating situation: sometimes two papers say completely opposite things, but unless you happen to read both, you’d never notice.\n\nSo we started building a small experiment to see if this could be detected automatically.\n\nThe idea is pretty simple:\n\nInstead of just indexing papers, the system reads them and extracts causal claims like\n\n* “X improves Y”\n* “X reduce",
+      "score": 109,
+      "publishedAt": "2026-03-06T16:54:55.000Z"
+    },
+    {
+      "title": "[R] I built a \"Safety Oracle\" for L4 Autonomous Driving using Flow Matching (and why it's better than standard Heuristics).",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rndxi9/r_i_built_a_safety_oracle_for_l4_autonomous/",
+      "source": "Reddit r/MachineLearning",
+      "description": "Hey r/MachineLearning,\n\nI just finished a project/paper tackling one of the hardest problems in AV safety: **The Long-Tail Problem.**\n\nMost safety filters rely on simple rules (e.g., \"if brake &gt; 5m/s2, then log\"). These rules are brittle and miss 99% of \"semantic\" safety risks (erratic lane changes, non-normative geometry).\n\nI wanted to see if we could automate this using **Generative AI** instead of manual rules.\n\n**The Approach:**  \nI developed \"Deep-Flow,\" a framework that uses **Optimal T",
+      "score": 0,
+      "publishedAt": "2026-03-07T16:15:47.000Z"
+    },
+    {
+      "title": "[Project] Extracting vector geometry (SVG/DXF/STL) from photos + experimental hand-drawn sketch extraction",
+      "url": "https://www.reddit.com/gallery/1rmkir6",
+      "source": "Reddit r/MachineLearning",
+      "description": "\nHi everyone,\n\nI’ve been working on a project called ShapeScan, focused on extracting clean geometric outlines from photos of real-world objects.\n\nThe goal is to convert images into usable vector and fabrication-ready formats such as SVG, DXF and STL.\n\nThe pipeline currently includes several stages:\n\n1. Image normalization\n\n- color calibration\n- automatic page detection\n- perspective correction\n- noise cleanup\n\n2. Segmentation\n\n- classical segmentation for simple scenes\n- optional background rem",
+      "score": 13,
+      "publishedAt": "2026-03-06T17:36:13.000Z"
+    },
+    {
+      "title": "[D] ECCV submission flowed over page limit by 5 lines at the last minute.. how screwed are we?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rmf41l/d_eccv_submission_flowed_over_page_limit_by_5/",
+      "source": "Reddit r/MachineLearning",
+      "description": "We were making minor changes (like replacing a single word) to the submission before it closed and forgot to check the page count, since we already uploaded one that fit. \n\nUnfortunately it overflowed by 5 lines onto page 15, leaving empty space on others. Are they going to be flexible about this? Can we address this to AC and pray they understand?",
+      "score": 13,
+      "publishedAt": "2026-03-06T14:14:50.000Z"
+    },
+    {
+      "title": "[P] On-device speech toolkit for Apple Silicon — ASR, TTS, diarization, speech-to-speech, all in native Swift",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rm7rox/p_ondevice_speech_toolkit_for_apple_silicon_asr/",
+      "source": "Reddit r/MachineLearning",
+      "description": "Open-source Swift package running 11 speech models on Apple Silicon via MLX (GPU) and CoreML (Neural Engine). Fully local inference, no cloud dependency.\n\nModels implemented:\n\n**ASR** \\- Qwen3-ASR 0.6B/1.7B (4-bit), Parakeet TDT (CoreML INT4) - RTF \\~0.06 on M2 Max\n\n**TTS** \\- Qwen3-TTS 0.6B (4-bit), CosyVoice3 0.5B (4-bit) - Streaming, \\~120ms first chunk\n\n**Speech-to-speech** \\- PersonaPlex 7B (4-bit) - Full-duplex, RTF \\~0.87\n\n**VAD** \\- Silero v5, Pyannote segmentation-3.0 - Streaming + over",
+      "score": 27,
+      "publishedAt": "2026-03-06T07:44:19.000Z"
+    },
+    {
+      "title": "[D] ISBI 2026 in London",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rmqs51/d_isbi_2026_in_london/",
+      "source": "Reddit r/MachineLearning",
+      "description": "Hey, everyone, is anyone from the sub going to ISBI this year? I have a paper accepted and will be giving an oral presentation. Would love to meet and connect in London for ISBI this year. ",
+      "score": 1,
+      "publishedAt": "2026-03-06T21:29:39.000Z"
+    },
+    {
+      "title": "[D] AMA Secure version of OpenClaw",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rlnwsk/d_ama_secure_version_of_openclaw/",
+      "source": "Reddit r/MachineLearning",
+      "description": "There’s a major risk that OpenClaw will exploit your data and funds. So I built a security focused version in Rust. AMA.\n\nI was incredibly excited when OpenClaw came out. It feels like the tech I’ve wanted to exist for 20 years. When I was 14 and training for programming competitions, I first had the question: why can’t a computer write this code? I went on to university to study ML, worked on natural language research at Google, co-wrote “Attention Is All You Need,” and founded NEAR, always thi",
+      "score": 169,
+      "publishedAt": "2026-03-05T17:36:21.000Z"
+    },
+    {
+      "title": "[R] Functional regularization: where do I start?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rmq93b/r_functional_regularization_where_do_i_start/",
+      "source": "Reddit r/MachineLearning",
+      "description": "Hey guys,\n\nAny advice on functional regularization? Especially in physics applications, but general pointers are welcome too. I’m new to this and trying to understand how to regularize by controlling the function a model learns (its behavior), not just the parameters.\n\nAny good explanations, examples, or resources would be helpful!\n\nAlso, I’m a bit confused about what the “original” functional regularization paper actually is, cause I’ve seen the term used in different contexts. Which paper is u",
+      "score": 1,
+      "publishedAt": "2026-03-06T21:09:12.000Z"
+    },
+    {
+      "title": "Having a hard time with offering free service, should I charge? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1ro2tnb/having_a_hard_time_with_offering_free_service/",
+      "source": "Reddit r/startups",
+      "description": "I’m new to this and wanted to establish my service with letting the costumers use it for free in the beginning. But having a really hard time with getting customers anyways and I read on X that it being free might be the issue. I’m a bit lost because if they don’t want it for free why would they want it for a monthly cost. I don’t know if I should keep going like this or start charging. What do you think? Can you please give me some advice?",
+      "score": 4,
+      "publishedAt": "2026-03-08T11:43:20.000Z"
+    },
+    {
+      "title": "Is building in public worth it? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1rnt963/is_building_in_public_worth_it_i_will_not_promote/",
+      "source": "Reddit r/startups",
+      "description": "I’ve been thinking about documenting my project and kind of “building in public,” either on TikTok/Instagram or maybe even YouTube. I think it would be very nice to look back on in few years, plus it might actually help find customers.\n\nI’m curious if anyone here has actually done it and what your experience was like. Did it help in any real way, like getting users, feedback, or connections? Or did it end up being more effort than it was worth?\n\nAlso wondering if there were any unexpected downsi",
+      "score": 13,
+      "publishedAt": "2026-03-08T02:52:53.000Z"
+    },
+    {
+      "title": "Can agricultural land (100+ acres in India – mango, rice farming) generate carbon credits?-i will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1ro154l/can_agricultural_land_100_acres_in_india_mango/",
+      "source": "Reddit r/startups",
+      "description": "Hi everyone,\n\nI’m trying to understand whether it’s possible to create a **carbon credit project from agricultural land**.\n\nMy situation:\n\n* My grandfather, relatives, and neighbours together own about **100–125 acres of farmland in a village in India**.\n* The land is actively **cultivated** – mainly **mango trees, rice farming, and other crops**.\n* This is traditional farming land that has been used for agriculture for many years.\n\nI’m exploring whether this land could generate **carbon credits",
+      "score": 2,
+      "publishedAt": "2026-03-08T10:05:54.000Z"
+    },
+    {
+      "title": "Found peace by closing the company? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1ro4fri/found_peace_by_closing_the_company_i_will_not/",
+      "source": "Reddit r/startups",
+      "description": "I’ve been in a rut a while with my business, I won’t get into the ins and outs but it’s just me doing everything In private consulting fashion.\n\nI think the reality is consulting probably wasn’t an extremely lucrative idea in my niche (health), I just am super passionate about it.\n\nIt’s not super profitable, although it was growing until this year, and if I don’t win new business all the time run rate falls off a cliff.\n\nI’ve been convincing myself that the freedom and flexibility is worth it bu",
+      "score": 1,
+      "publishedAt": "2026-03-08T13:06:42.000Z"
+    },
+    {
+      "title": "Would you create a competitor for company you're working for? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1ro48ct/would_you_create_a_competitor_for_company_youre/",
+      "source": "Reddit r/startups",
+      "description": "\nWould you create a competitor for company you're working for currently while working there? If you're a contractor with no non-compete clause in the contract.\n\nThis moral dilemma and legally I do think I am covered (there are those IP clauses but unless they know they won't come after and on paper I am not attached to anything). Also, being in different countries I think it wouldn't try as it is costly to litigate.\n\nI would create 1/10 of their rev befote selling\n\nContext: I am using their IP a",
+      "score": 0,
+      "publishedAt": "2026-03-08T12:57:09.000Z"
+    },
+    {
+      "title": "I spent &gt; $60K/month on PR agencies at a startup that raised $680M. Here's what I learned about getting press as an early-stage operator - i will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1rn45nz/i_spent_60kmonth_on_pr_agencies_at_a_startup_that/",
+      "source": "Reddit r/startups",
+      "description": "I was the first marketing employee (head of growht etc) at a startup that then raised a $680M Series B. Part of my job was managing PR across 6 countries at the same time.\n\nAt our peak we had 5+ agencies running in parallel. US at $30K/month. UK at £15K/month. Plus France, Germany, Spain, Italy. Total bill: over $60K/month just on PR.\n\nI got to see how PR agencies actually work from the inside. Different countries, different price points, different cultures. And honestly, most of what I learned ",
+      "score": 189,
+      "publishedAt": "2026-03-07T07:53:31.000Z"
+    },
+    {
+      "title": "What tools to use for app stores covers? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1rnzjf7/what_tools_to_use_for_app_stores_covers_i_will/",
+      "source": "Reddit r/startups",
+      "description": "Hey devs!\n\nAny suggestions / tools for quick promo pics for app stores? I know I can use Figma but it feels too long for posters. I believe there's another way for it.\n\nAs I see from top apps, they're pretty neat and polished, wanna get the same level for my personal apps.\n\nAny links / dropdowns will be appreciated! Thank you in advance!",
+      "score": 2,
+      "publishedAt": "2026-03-08T08:27:44.000Z"
+    },
+    {
+      "title": "anyone who bootstrapped a business that wishes they had raised money instead? [i will not promote]",
+      "url": "https://www.reddit.com/r/startups/comments/1rnlwlq/anyone_who_bootstrapped_a_business_that_wishes/",
+      "source": "Reddit r/startups",
+      "description": "i'm currently deciding whether to raise for my pre-pmf startup as i have the credentials/history/conviction to do so and spending my own money has become very stressful but am wondering if i will regret it later. \n\ni've talked to enough vc founders who regret raising that i'm quite cautious of it but was wondering if the other side of the coin exists too ",
+      "score": 9,
+      "publishedAt": "2026-03-07T21:27:38.000Z"
+    },
+    {
+      "title": "Would you use a platform where you could back creators before they become famous? - i will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1ro0koo/would_you_use_a_platform_where_you_could_back/",
+      "source": "Reddit r/startups",
+      "description": "Lately, I can’t get this idea out of my head, and I’m not sure if it’s actually cool or just one of those things that only seems good in my own brain.\n\nPicture this: a platform where you can discover up-and-coming creators and “back” them before everyone else catches on. Let’s say you stumble across a YouTuber with maybe 2,000 subscribers, and you just have a gut feeling they’re going to blow up. You back them early on the platform, and if they go big—like 500k or even a million subscribers—you ",
+      "score": 0,
+      "publishedAt": "2026-03-08T09:31:20.000Z"
+    },
+    {
+      "title": "Looking for Advice: Startup directly after Uni? (i will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1rnzd0t/looking_for_advice_startup_directly_after_uni_i/",
+      "source": "Reddit r/startups",
+      "description": "The prospect seems quite daunting. Please share your story. What was the startup, how many founders, and what was the team structure?  \nWhat was it like at the start? How hard were the first 6-12 months. When did you start getting clients and when did you break even (if at all). Was it better than finding a job out of Uni? Do you regret it? and what advice do you have?",
+      "score": 1,
+      "publishedAt": "2026-03-08T08:17:04.000Z"
+    },
+    {
+      "title": "our product is live, people are using it… so what’s next ? i will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1rnclnh/our_product_is_live_people_are_using_it_so_whats/",
+      "source": "Reddit r/startups",
+      "description": "Marketing really still feels like testing, guessing, and trying to figure out who the *real* customer is and what messaging actually lands.....\n\nthe product has started to get a bit of traction... a few users using it, some good feedback... which is great, but now I’m kind of in that stage  “ok… what do I double down on next?”\n\nHonestly it’s also given me a lot more respect for founders who didn’t come from marketing at all and still figured this part out....\n\nCurious for others who’ve been thro",
+      "score": 23,
+      "publishedAt": "2026-03-07T15:22:42.000Z"
+    },
+    {
+      "title": "Should I make social media videos of myself inventing my product? - [I will not promote]",
+      "url": "https://www.reddit.com/r/startups/comments/1rnmsme/should_i_make_social_media_videos_of_myself/",
+      "source": "Reddit r/startups",
+      "description": "Greetings to everyone from Italy! Before I get to the question, a little context:\n\nI'm 23 years old, and six years ago I entered the world of e-commerce by reselling products online, but only three years ago did I realize I had the skills to build a product from scratch with my own hands... so I built a gadget that amazes children and adults alike.\n\nIt was a fantastic experience because it taught me so much about how to manufacture a product.\n\nNow I've got a new idea, again for a physical produc",
+      "score": 5,
+      "publishedAt": "2026-03-07T22:03:39.000Z"
+    },
+    {
+      "title": "How to raise (seeking advice) (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1rnh8ak/how_to_raise_seeking_advice_i_will_not_promote/",
+      "source": "Reddit r/startups",
+      "description": "Context:\n\nMy grandfather being the inventor he was had a lot of patents in medical devices from his time as a doctor to improve his day to day operations. Three highly successful products doing low to mid 8 figure revenue yearly (15-45 MM yearly per product). Should he have explored that and not licensed it out to companies. Yes but unfortunately he didn’t. He did very well but should probably be worth 500MM or more. He is not or I wouldn’t be writing this post.\n\nHe made an improvement on a prev",
+      "score": 4,
+      "publishedAt": "2026-03-07T18:23:47.000Z"
+    },
+    {
+      "title": "I will not promote - How did Cal AI do it? What is behind the success?",
+      "url": "https://www.reddit.com/r/startups/comments/1rnjzqs/i_will_not_promote_how_did_cal_ai_do_it_what_is/",
+      "source": "Reddit r/startups",
+      "description": "They just got acquired by fitness pal, probably for like 100 million.\n\nWhat were the main strategies that worked?\n\nI know they had an enforced paywall, and paid a lot to influencers to advertise the app.\n\nWhat else?\n\nIs the app actually great? \n\nI am building my own app and want to learn from it.\n\nThank you!\n\nAnd congrats to the founder and his team! I wish I was this successful at only 18yo 😅 ",
+      "score": 3,
+      "publishedAt": "2026-03-07T20:10:37.000Z"
+    },
+    {
+      "title": "need your help/input on the basics of a startup (from a freshman)- i will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1rndasx/need_your_helpinput_on_the_basics_of_a_startup/",
+      "source": "Reddit r/startups",
+      "description": "**if you or anyone you know is into startups, please read this:**\n\nhey guys, I'm a first year student here, interested in knowing more about the startup culture among students/any individuals from any field of interest:\n\n1. what type of product/products does the startup make?(could be a service/app or tangible product)\n2. on what platform do you generally launch that product on? (irl/any app/website?)\n3. how do you look for what to price your product at?\n4. if you have a team of people in your s",
+      "score": 5,
+      "publishedAt": "2026-03-07T15:51:07.000Z"
+    },
+    {
+      "title": "How bad is it to leave the startup in 6 months as the lead product guy?(i will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1rmuqnx/how_bad_is_it_to_leave_the_startup_in_6_months_as/",
+      "source": "Reddit r/startups",
+      "description": "I am working on a AI startup for the last 6 months , the founder said they are raising series A when i joined and so far we haven't managed to raise series A.  I got another offer from a leading AI lab that's making money.  The money is almost double 2x,  but i feel guilty to entertain that idea as my current team relies on my expertise . But i worry about long term viability as our competition is funded and we are not. Is leaving in 6 months too bad without any other problems?",
+      "score": 58,
+      "publishedAt": "2026-03-07T00:09:40.000Z"
+    },
+    {
+      "title": "Any alternative to Stripe payment s for Indian SaaS? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1rni3o2/any_alternative_to_stripe_payment_s_for_indian/",
+      "source": "Reddit r/startups",
+      "description": "Hey founder's. I run a SaaS and am curious how other founder's mostly Indian SaaS are taking payments? \n\nAs Stripe is on invite basis and I got rejected twice now. For Indian users I am using razorpay subscription and for Global I am using Paypal one time payment. \n\nIssue is mine is a SaaS platform and I run on a subscription basis. So I am getting bit trouble with that for global payments mostly. \n\nWhich payment gateway you guys are using nd how it is better? And please don't suggest stripe atl",
+      "score": 0,
+      "publishedAt": "2026-03-07T18:57:27.000Z"
+    },
+    {
+      "title": "Advice Needed - “I will not promote “",
+      "url": "https://www.reddit.com/r/startups/comments/1rn3qrc/advice_needed_i_will_not_promote/",
+      "source": "Reddit r/startups",
+      "description": "I’m a first-time founder building a product for the real estate industry, and honestly, I’ve hit a wall. I started out incredibly motivated, but finding a technical co-founder and figuring out the right next steps has been tough.\n\nIn terms of progress, I built a non-working visual MVP using Lovable. I’ve also interviewed a few industry professionals to test my assumptions and plan to run a broader survey soon. Since I can't find a technical co-founder, I’m considering a freelance developer. He q",
+      "score": 5,
+      "publishedAt": "2026-03-07T07:28:59.000Z"
+    },
+    {
+      "title": "Oracle Layoffs: Tech giant to slash 30,000 jobs as banks pull out from financing AI data centers",
+      "url": "https://www.livemint.com/companies/news/oracle-layoffs-tech-giant-to-slash-30-000-jobs-as-banks-pull-out-from-financing-ai-data-centres-11769996619410.html",
+      "source": "Reddit r/technology",
+      "score": 8440,
+      "publishedAt": "2026-03-08T10:07:18.000Z"
+    },
+    {
+      "title": "‘The American people should not be footing the bill for the benefit of private companies': Tech giants sign White House pledge to not pass on data center electricity to customers",
+      "url": "https://www.techradar.com/pro/the-american-people-should-not-be-footing-the-bill-for-the-benefit-of-private-companies-tech-giants-sign-white-house-pledge-to-not-pass-on-data-center-electricity-costs-to-consumers-heres-everything-you-need-to-know",
+      "source": "Reddit r/technology",
+      "score": 1300,
+      "publishedAt": "2026-03-08T11:37:59.000Z"
+    },
+    {
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "source": "Reddit r/technology",
+      "score": 6334,
+      "publishedAt": "2026-03-08T02:02:07.000Z"
+    },
+    {
+      "title": "Andrew Tate, Brother Tristan Suing X to ID Users They Claim Defamed Them",
+      "url": "https://www.aol.com/articles/andrew-tate-brother-tristan-suing-181255540.html",
+      "source": "Reddit r/technology",
+      "score": 4584,
+      "publishedAt": "2026-03-08T00:21:39.000Z"
+    },
+    {
+      "title": "Claude Code deletes developers' production setup, including its database and snapshots — 2.5 years of records were nuked in an instant",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-code-deletes-developers-production-setup-including-its-database-and-snapshots-2-5-years-of-records-were-nuked-in-an-instant",
+      "source": "Reddit r/technology",
+      "score": 15521,
+      "publishedAt": "2026-03-07T17:45:10.000Z"
+    },
+    {
+      "title": "Musk fails to block California data disclosure law he fears will ruin xAI | Musk can’t convince judge public doesn’t care about where AI training data comes from",
+      "url": "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+      "source": "Reddit r/technology",
+      "score": 1554,
+      "publishedAt": "2026-03-08T03:52:15.000Z"
+    },
+    {
+      "title": "Democratic Senators Slam U.S President Administration’s Inaction on Reviewing Paramount’s Warner Bros. Deal for National Security Risks Over Backing by Arab Wealth Funds",
+      "url": "https://variety.com/2026/film/news/paramount-warner-bros-national-security-review-arab-wealth-funds-warren-blumenthal-1236681067/",
+      "source": "Reddit r/technology",
+      "score": 1345,
+      "publishedAt": "2026-03-08T04:28:55.000Z"
+    },
+    {
+      "title": "Kalshi customers who bet on the death of Iran’s Ayatollah won’t get any of the $54 million wagered, company says",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/kalshi-bets-iran-ayatollah-ali-khamenei-death-b2932018.html",
+      "source": "Reddit r/technology",
+      "score": 23221,
+      "publishedAt": "2026-03-07T15:51:28.000Z"
+    },
+    {
+      "title": "OpenAI Robotics head resigns after deal with Pentagon",
+      "url": "https://www.reuters.com/business/openai-robotics-head-resigns-after-deal-with-pentagon-2026-03-07/",
+      "source": "Reddit r/technology",
+      "score": 4258,
+      "publishedAt": "2026-03-07T21:43:06.000Z"
+    },
+    {
+      "title": "At 25, Wikipedia faces a double threat: the rise of AI and the decline of local media",
+      "url": "https://www.cbc.ca/radio/sunday/wikipedia-25-year-ai-effect-9.7117795https://www.cbc.ca/radio/sunday/wikipedia-25-year-ai-effect-9.7117795",
+      "source": "Reddit r/technology",
+      "score": 359,
+      "publishedAt": "2026-03-08T08:07:04.000Z"
+    },
+    {
+      "title": "Microsoft patents system for AI helpers to finish games for you",
+      "url": "https://www.dexerto.com/gaming/microsoft-patents-system-for-ai-helpers-to-finish-games-for-you-3328275/",
+      "source": "Reddit r/technology",
+      "score": 184,
+      "publishedAt": "2026-03-08T11:22:22.000Z"
+    },
+    {
+      "title": "Nvidia dominates gaming GPU market with 95 percent share as sales of AMD Radeon graphics plummet to a historical low of 5 percent",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-dominates-discrete-gpu-market-as-sales-of-amd-radeon-graphics-cards-hit-historical-low",
+      "source": "Reddit r/technology",
+      "score": 139,
+      "publishedAt": "2026-03-08T12:51:07.000Z"
+    },
+    {
+      "title": "OpenAI robotics leader resigns over concerns about surveillance and autonomous weapons amid Pentagon contract",
+      "url": "https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/",
+      "source": "Reddit r/technology",
+      "score": 556,
+      "publishedAt": "2026-03-08T04:25:15.000Z"
+    },
+    {
+      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+      "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+      "source": "Reddit r/technology",
+      "score": 1674,
+      "publishedAt": "2026-03-07T20:29:39.000Z"
+    },
+    {
+      "title": "Meta's smart glasses are filming unwitting naked people",
+      "url": "https://appleinsider.com/articles/26/03/03/what-privacy-as-expected-meta-ray-bans-are-a-privacy-disaster?utm_source=fark&amp;utm_medium=website&amp;utm_content=link&amp;utm_campaign=fark&amp;ICID=ref_fark",
+      "source": "Reddit r/technology",
+      "score": 1411,
+      "publishedAt": "2026-03-07T20:31:32.000Z"
+    },
+    {
+      "title": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs",
+      "url": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
+      "source": "Reddit r/technology",
+      "score": 93,
+      "publishedAt": "2026-03-08T10:10:04.000Z"
+    },
+    {
+      "title": "China Suspected in Breach of FBI Surveillance Network",
+      "url": "https://www.wsj.com/politics/national-security/china-suspected-in-breach-of-fbi-surveillance-network-2c9d1691?st=iA738g",
+      "source": "Reddit r/technology",
+      "score": 1357,
+      "publishedAt": "2026-03-07T17:34:26.000Z"
+    },
+    {
+      "title": "Engineer receives $30,000 for exposing a vulnerability affecting 7,000 robot vacuum cleaners — tinkerer just wanted to drive his robot vacuum with a PS5 controller",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/engineer-receives-usd30-000-for-exposing-a-vulnerability-affecting-7-000-robot-vacuum-cleaners-tinkerer-just-wanted-to-drive-his-robot-vacuum-with-a-ps5-controller",
+      "source": "Reddit r/technology",
+      "score": 1959,
+      "publishedAt": "2026-03-07T15:29:12.000Z"
+    },
+    {
+      "title": "BYD just killed your EV argument with a battery that competes with gas engines",
+      "url": "https://www.fastcompany.com/91503415/byd-ev-battery-competes-with-gas-engines",
+      "source": "Reddit r/technology",
+      "score": 6180,
+      "publishedAt": "2026-03-07T09:32:39.000Z"
+    },
+    {
+      "title": "NASA officials sent over 2,000 baby jellyfish into space. Tens of thousands more came back to Earth",
+      "url": "https://www.discoverwildlife.com/animal-facts/marine-animals/nasa-officials-sent-over-2000-jellyfish-into-space",
+      "source": "Reddit r/technology",
+      "score": 494,
+      "publishedAt": "2026-03-07T21:47:13.000Z"
+    },
+    {
+      "title": "How are you dealing with increased demand for requirements?",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1ro2dyt/how_are_you_dealing_with_increased_demand_for/",
+      "source": "Reddit r/ProductManagement",
+      "description": "For those of you working at companies like mine where LLMs are increasing team velocity, how are you managing demand for more requirements? I work in a small company where I'm the only PM across 2 teams of 6 devs each. Our product is niche and serves a few very specific needs so product has always been very much pinned to those needs. I spend a lot of time with users to constantly refine it. This means that our requirements gathering is slow and deliberate and we know what gets built adds value.",
+      "score": 10,
+      "publishedAt": "2026-03-08T11:18:45.000Z"
+    },
+    {
+      "title": "Is leaving a $150k/yr + good (6%) 401k match + great/cheap health insurance + $10k RSU + easy job worth leaving for a $185k salary with crappier benefits?",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rnr2la/is_leaving_a_150kyr_good_6_401k_match_greatcheap/",
+      "source": "Reddit r/ProductManagement",
+      "description": "What the title says. I think I’d be happier and more engaged overall at the new company, but my job is currently pretty easy…. I can literally coast on 30 hrs a week right now and still be labeled as an amazing resource. All of my annual reviews have been stellar and I keep getting 3% raises. This is a fortune 10 company.\n\nThe only qualm is I know I could do more + make more. But is $35k more salary worth it when they only match 2.5% for the 401k + have shit health insurance + it sounds like id ",
+      "score": 38,
+      "publishedAt": "2026-03-08T01:09:25.000Z"
+    },
+    {
+      "title": "What stupid \"i eat my own burgers\" stunt is your CEO going to pull?",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rnqhwn/what_stupid_i_eat_my_own_burgers_stunt_is_your/",
+      "source": "Reddit r/ProductManagement",
+      "description": "I just know it's going to happen at my company and with B2B software it's going to be such a massive cringe fest on linkedin. I'm actually betting my coworkers on it happening. ",
+      "score": 30,
+      "publishedAt": "2026-03-08T00:42:49.000Z"
+    },
+    {
+      "title": "Appalled by new CTO",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rneoxw/appalled_by_new_cto/",
+      "source": "Reddit r/ProductManagement",
+      "description": "Edited: thanks all for the advice. I know what to do now. Removing for personal protection.",
+      "score": 44,
+      "publishedAt": "2026-03-07T16:46:22.000Z"
+    },
+    {
+      "title": "Why is there no good way to onboard someone into an existing product?",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rn8v2b/why_is_there_no_good_way_to_onboard_someone_into/",
+      "source": "Reddit r/ProductManagement",
+      "description": "Not just designers, anyone. pm, engineer, whoever\n\ny\\\\You join a team and there's no single place that tells you how the product works, what patterns exist, what decisions were made and why. you just... dig. figma files, old docs, asking people who are busy\n\nand then you build or design something and it doesn't fit and nobody's fault really. the context just didn't exist anywhere\n\nWe have ai for everything now. Product management tools, vibe coding tools, ai agents for research and planning. but",
+      "score": 83,
+      "publishedAt": "2026-03-07T12:32:21.000Z"
+    },
+    {
+      "title": "Tech empowered by AI has killed thinking and bias for action",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rndz35/tech_empowered_by_ai_has_killed_thinking_and_bias/",
+      "source": "Reddit r/ProductManagement",
+      "description": "Hi all, would appreciate some perspective on a situation that I've just been through that honestly has left me pretty frustrated\n\nI've been working with a Tech team for about 5 months now that uses AI pretty much everywhere\n\n\\- PRD review  \n\\- Investigating issues  \n\\- Writing code  \n\\- Code reviews\n\nYou get the gist - now I have no qualms with #2-4, #1 is where I'm pretty baffled\n\nI've been preparing a PRD + Designs for a new product we're hoping to launch, which is roughly 2 months of work for",
+      "score": 26,
+      "publishedAt": "2026-03-07T16:17:34.000Z"
+    },
+    {
+      "title": "Anyone using BMAD in their products?",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rnn80w/anyone_using_bmad_in_their_products/",
+      "source": "Reddit r/ProductManagement",
+      "description": "How it’s going? Any watch outs on implementation? We are looking into it, and the org Vaib on it is huge. I’m worried it will reorganize the PM work that worked well with Jira since some time.",
+      "score": 2,
+      "publishedAt": "2026-03-07T22:21:23.000Z"
+    },
+    {
+      "title": "Update on Product Driven Development (Experiment)",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rnasz9/update_on_product_driven_development_experiment/",
+      "source": "Reddit r/ProductManagement",
+      "description": "Hi Product Managers, I started to write about experiment in our org there [https://www.reddit.com/r/ProductManagement/s/NEMoyGe6ZK](https://www.reddit.com/r/ProductManagement/s/NEMoyGe6ZK)\n\n**Would like to share an update**\n\n* With the new models I see successful rate of the code generation from &lt;5 messages closer to 70%.\n* We reduced teams sizes now we have ratio 1 PM, 1 Tech Lead, 1 Developer, 1 Designer/QA (Ratio 1/3), before we had 5-7 devs in team\n* All team members ship code, including ",
+      "score": 10,
+      "publishedAt": "2026-03-07T14:05:10.000Z"
+    },
+    {
+      "title": "Oops moment while presenting product review updates",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rmq21p/oops_moment_while_presenting_product_review/",
+      "source": "Reddit r/ProductManagement",
+      "description": "In this week’s product review I was presenting engagement metrics for a feature we rolled out about two months ago.\n\nThe summary looked great. Weekly usage was up about 28% and session duration had ticked up slightly. My takeaway slide basically said the feature was driving engagement.\n\nA senior PM asked if I am sure this is feature adoption and not just a shift in how people navigate the product? Went back to the breakdown and realized that the feature itself wasn’t being used nearly as much as",
+      "score": 85,
+      "publishedAt": "2026-03-06T21:01:41.000Z"
+    },
+    {
+      "title": "A not properly owned product with a messy backlog",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rnb15b/a_not_properly_owned_product_with_a_messy_backlog/",
+      "source": "Reddit r/ProductManagement",
+      "description": "Hi everyone,\n\nWe have a suite software, foundation for all of our other applications. It is also a product on its own. It has had a lot of technical debt, enough to be busy with for coupe of years and hence it hasnt had any PM for 2 years. In the meantime jira was not well maintained and didn't have a gate keeper. Now there are years old initiatives, quite many without description or super vague ones, tons of duplicates etc. Now temporarily the decision is made that we as PM team own it. But we ",
+      "score": 3,
+      "publishedAt": "2026-03-07T14:15:19.000Z"
+    },
+    {
+      "title": "End to end process management tool",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rnhpcs/end_to_end_process_management_tool/",
+      "source": "Reddit r/ProductManagement",
+      "description": "Hi! \n\nWe have a massive push (obviously) in our corporation to adopt AI tools. Going through them my biggest issue  is that  so far I have  not found one that would support E2E PM process. \n\n Do you know about any good examples? Something that will help manage roadmap,  gather requirements, refine them, pass them to Dev team and track progress (if it integrates with ADO it would be splendid) than coordinates business testing and  release communication. \n\n Any ideas?",
+      "score": 0,
+      "publishedAt": "2026-03-07T18:41:57.000Z"
+    },
+    {
+      "title": "what Product Analysts usually do? Need advice",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rngukp/what_product_analysts_usually_do_need_advice/",
+      "source": "Reddit r/ProductManagement",
+      "description": "I’m currently working as an Associate Product Analyst. Most of my day-to-day work is business-side focused: gap analysis, wireframing, client coordination, competitive research, knowledge transfers, requirement discussions, and similar tasks. Basically a lot of the work revolves around understanding business needs and translating them into product requirements.\nOne thing I’ve noticed in my current role is that I don’t really use tools like SQL, Power BI, or other data analysis tools. Because of ",
+      "score": 0,
+      "publishedAt": "2026-03-07T18:08:58.000Z"
+    },
+    {
+      "title": "Which tool for interactive mock ups based on real UI?",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rn1j9z/which_tool_for_interactive_mock_ups_based_on_real/",
+      "source": "Reddit r/ProductManagement",
+      "description": "Is there any tool out there which will take screenshots (or videos) of an existing app and create decent interactive web mock ups of your idea to share with the team and management?\n\nI tried v0 but we don’t have a company account and it timed out. I then tried Cursor with a cheap model (we have a cap for Cursor usage) and it came up with an interactive web page which conveyed the idea but it looks like a kid’s crayon design vs a proper painting.\n\nIt would be nice if it was a bit more similar (UI",
+      "score": 8,
+      "publishedAt": "2026-03-07T05:30:34.000Z"
+    },
+    {
+      "title": "The PM interview has changed",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rlrq5r/the_pm_interview_has_changed/",
+      "source": "Reddit r/ProductManagement",
+      "description": "The PM interview has changed. I just got asked about orchestration patterns, multi-agent systems, and agentic tool use in a PM interview.\n\nThey also asked if I could build in Cursor.\n\nNot engineering. PM.\n\nMost PMs know AI is shifting things. Very few know where they're actually exposed.\n\nAnyone else seeing this in interviews? What have you done to prepare?",
+      "score": 342,
+      "publishedAt": "2026-03-05T19:51:46.000Z"
+    },
+    {
+      "title": "Seeking Advice to Boost Productivity",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rmhmnz/seeking_advice_to_boost_productivity/",
+      "source": "Reddit r/ProductManagement",
+      "description": "\n\nHi, I'm a Product Manager in the payments industry. My product org is a market leader in a South Asian country—super fast-paced, launching a new product every 3 months (unlike my previous org, where the same work took 3x longer).\n\nMy background is in service-based and managed services, where my role was limited to delivering specific asks—I've excelled there and built strong domain expertise. Now, I'm handling end-to-end product build: from UX design, product construction, legal/compliance, ro",
+      "score": 3,
+      "publishedAt": "2026-03-06T15:51:34.000Z"
+    },
+    {
+      "title": "Pm at a small indecisive company",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rmfb3n/pm_at_a_small_indecisive_company/",
+      "source": "Reddit r/ProductManagement",
+      "description": "I just started as a pm in a small tech company (3 month in) with great idea of a product that is not reaching its potential, there are some on prem clients and some SaaS clients overall about 80 clients give or take.\n\nI came to realize management don’t know what they want for the product and can’t decide on anything… shift in priorities happen weekly if not daily and we are constantly after “quick wins”. So far I have been writing feature requirements and PRD’s base solely on internal data as I ",
+      "score": 2,
+      "publishedAt": "2026-03-06T14:22:38.000Z"
+    },
+    {
+      "title": "Spent three weeks writing a PRD for our AP automation feature that got ignored in the first sprint",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rlqthk/spent_three_weeks_writing_a_prd_for_our_ap/",
+      "source": "Reddit r/ProductManagement",
+      "description": "As you can see from the title I am three weeks on a PRD that didn't make it through the first sprint planning meeting and I'm still thinking about it two months later\n\n\n\n  \nFinance had been asking for better AP tooling since Q3 last year which was a consistent low grade frustration with how invoices were being handled and how long approvals were taking. I finally got it on the roadmap and spent three weeks embedded with the finance team understanding the workflow seeing where things were breakin",
+      "score": 53,
+      "publishedAt": "2026-03-05T19:18:15.000Z"
+    },
+    {
+      "title": "AI makes building cheap is the most dangerous idea in tech right now",
+      "url": "https://www.reddit.com/r/ProductManagement/comments/1rlm0o6/ai_makes_building_cheap_is_the_most_dangerous/",
+      "source": "Reddit r/ProductManagement",
+      "description": "Yes, you can ship an MVP in a weekend. Cursor, Claude, Bolt, whatever. Code is basically free now. So the logic goes: just build it, see what happens, iterate.\n\nBut here's what's not cheap: the 3 months you spend trying to sell something nobody wants. The team energy burned on pivot after pivot. The false confidence of having a working product with zero traction. The opportunity cost of chasing the wrong idea while someone else tested first and found the right one.\n\nCode is cheap. Conviction in ",
+      "score": 89,
+      "publishedAt": "2026-03-05T16:26:23.000Z"
+    },
+    {
+      "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
+      "url": "http://arxiv.org/abs/2603.05504v1",
+      "source": "arXiv",
+      "description": "Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing the underlying policy's weaknesses, leading to inefficient coverage of critical state distributions. Conversely, interactive methods like DAgger effectively address covariate shift but rely on physical ",
+      "publishedAt": "2026-03-05T18:59:38Z"
+    },
+    {
+      "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
+      "url": "http://arxiv.org/abs/2603.05500v1",
+      "source": "arXiv",
+      "description": "Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalence transformation, has been proposed. Although POET provides strong training stability, its original implementation incurs high memory consumption and computational overhead due to intensive matrix mu",
+      "publishedAt": "2026-03-05T18:59:23Z"
+    },
+    {
+      "title": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+      "url": "http://arxiv.org/abs/2603.05498v1",
+      "source": "arXiv",
+      "description": "We study two recurring phenomena in Transformer language models: massive activations, in which a small number of tokens exhibit extreme outliers in a few channels, and attention sinks, in which certain tokens attract disproportionate attention mass regardless of semantic relevance. Prior work observes that these phenomena frequently co-occur and often involve the same tokens, but their functional roles and causal relationship remain unclear. Through systematic experiments, we show that the co-oc",
+      "publishedAt": "2026-03-05T18:59:04Z"
+    },
+    {
+      "title": "Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels",
+      "url": "http://arxiv.org/abs/2603.05495v1",
+      "source": "arXiv",
+      "description": "To scale the solution of optimization and simulation problems, prior work has explored machine-learning surrogates that inexpensively map problem parameters to corresponding solutions. Commonly used approaches, including supervised and self-supervised learning with either soft or hard feasibility enforcement, face inherent challenges such as reliance on expensive, high-quality labels or difficult optimization landscapes. To address their trade-offs, we propose a novel framework that first collec",
+      "publishedAt": "2026-03-05T18:58:39Z"
+    },
+    {
+      "title": "Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
+      "url": "http://arxiv.org/abs/2603.05494v1",
+      "source": "arXiv",
+      "description": "Large language models sometimes produce false or misleading responses. Two approaches to this problem are honesty elicitation -- modifying prompts or weights so that the model answers truthfully -- and lie detection -- classifying whether a given response is false. Prior work evaluates such methods on models specifically trained to lie or conceal information, but these artificial constructions may not resemble naturally-occurring dishonesty. We instead study open-weights LLMs from Chinese develo",
+      "publishedAt": "2026-03-05T18:58:14Z"
+    },
+    {
+      "title": "Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought",
+      "url": "http://arxiv.org/abs/2603.05488v1",
+      "source": "arXiv",
+      "description": "We provide evidence of performative chain-of-thought (CoT) in reasoning models, where a model becomes strongly confident in its final answer, but continues generating tokens without revealing its internal belief. Our analysis compares activation probing, early forced answering, and a CoT monitor across two large models (DeepSeek-R1 671B &amp; GPT-OSS 120B) and find task difficulty-specific differences: The model's final answer is decodable from activations far earlier in CoT than a monitor is ab",
+      "publishedAt": "2026-03-05T18:55:16Z"
+    },
+    {
+      "title": "Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation",
+      "url": "http://arxiv.org/abs/2603.05485v1",
+      "source": "arXiv",
+      "description": "As AI models progress beyond simple chatbots into more complex workflows, we draw ever closer to the event horizon beyond which AI systems will be utilized in autonomous, self-maintaining feedback loops. Any autonomous AI system will depend on automated, verifiable rewards and feedback; in settings where ground truth is sparse or non-deterministic, one practical source of such rewards is an LLM-as-a-Judge. Although LLM judges continue to improve, the literature has yet to introduce systems capab",
+      "publishedAt": "2026-03-05T18:52:28Z"
+    },
+    {
+      "title": "SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis",
+      "url": "http://arxiv.org/abs/2603.05483v1",
+      "source": "arXiv",
+      "description": "Estimating heterogeneous treatment effects (HTEs) from right-censored survival data is critical in high-stakes applications such as precision medicine and individualized policy-making. Yet, the survival analysis setting poses unique challenges for HTE estimation due to censoring, unobserved counterfactuals, and complex identification assumptions. Despite recent advances, from Causal Survival Forests to survival meta-learners and outcome imputation approaches, evaluation practices remain fragment",
+      "publishedAt": "2026-03-05T18:52:02Z"
+    },
+    {
+      "title": "Thermodynamic Response Functions in Singular Bayesian Models",
+      "url": "http://arxiv.org/abs/2603.05480v1",
+      "source": "arXiv",
+      "description": "Singular statistical models-including mixtures, matrix factorization, and neural networks-violate regular asymptotics due to parameter non-identifiability and degenerate Fisher geometry. Although singular learning theory characterizes marginal likelihood behavior through invariants such as the real log canonical threshold and singular fluctuation, these quantities remain difficult to interpret operationally. At the same time, widely used criteria such as WAIC and WBIC appear disconnected from un",
+      "publishedAt": "2026-03-05T18:50:20Z"
+    },
+    {
+      "title": "Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval",
+      "url": "http://arxiv.org/abs/2603.05471v1",
+      "source": "arXiv",
+      "description": "Trustworthiness is a core research challenge for agentic AI systems built on Large Language Models (LLMs). To enhance trust, natural language claims from diverse sources, including human-written text, web content, and model outputs, are commonly checked for factuality by retrieving external knowledge and using an LLM to verify the faithfulness of claims to the retrieved evidence. As a result, such methods are constrained by retrieval errors and external data availability, while leaving the model",
+      "publishedAt": "2026-03-05T18:42:51Z"
+    },
+    {
+      "title": "Kraus Constrained Sequence Learning For Quantum Trajectories from Continuous Measurement",
+      "url": "http://arxiv.org/abs/2603.05468v1",
+      "source": "arXiv",
+      "description": "Real-time reconstruction of conditional quantum states from continuous measurement records is a fundamental requirement for quantum feedback control, yet standard stochastic master equation (SME) solvers require exact model specification, known system parameters, and are sensitive to parameter mismatch. While neural sequence models can fit these stochastic dynamics, the unconstrained predictors can violate physicality such as positivity or trace constraints, leading to unstable rollouts and unph",
+      "publishedAt": "2026-03-05T18:37:05Z"
+    },
+    {
+      "title": "Distributed Partial Information Puzzles: Examining Common Ground Construction Under Epistemic Asymmetry",
+      "url": "http://arxiv.org/abs/2603.05450v1",
+      "source": "arXiv",
+      "description": "Establishing common ground, a shared set of beliefs and mutually recognized facts, is fundamental to collaboration, yet remains a challenge for current AI systems, especially in multimodal, multiparty settings, where the collaborators bring different information to the table. We introduce the Distributed Partial Information Puzzle (DPIP), a collaborative construction task that elicits rich multimodal communication under epistemic asymmetry. We present a multimodal dataset of these interactions, ",
+      "publishedAt": "2026-03-05T18:22:55Z"
+    },
+    {
+      "title": "RealWonder: Real-Time Physical Action-Conditioned Video Generation",
+      "url": "http://arxiv.org/abs/2603.05449v1",
+      "source": "arXiv",
+      "description": "Current video generation models cannot simulate physical consequences of 3D actions like forces and robotic manipulations, as they lack structural understanding of how actions affect 3D scenes. We present RealWonder, the first real-time system for action-conditioned video generation from a single image. Our key insight is using physics simulation as an intermediate bridge: instead of directly encoding continuous actions, we translate them through physics simulation into visual representations (o",
+      "publishedAt": "2026-03-05T18:22:54Z"
+    },
+    {
+      "title": "Residual RL--MPC for Robust Microrobotic Cell Pushing Under Time-Varying Flow",
+      "url": "http://arxiv.org/abs/2603.05448v1",
+      "source": "arXiv",
+      "description": "Contact-rich micromanipulation in microfluidic flow is challenging because small disturbances can break pushing contact and induce large lateral drift. We study planar cell pushing with a magnetic rolling microrobot that tracks a waypoint-sampled reference curve under time-varying Poiseuille flow. We propose a hybrid controller that augments a nominal MPC with a learned residual policy trained by SAC. The policy outputs a bounded 2D velocity correction that is contact-gated, so residual actions ",
+      "publishedAt": "2026-03-05T18:20:07Z"
+    },
+    {
+      "title": "Latent Wasserstein Adversarial Imitation Learning",
+      "url": "http://arxiv.org/abs/2603.05440v1",
+      "source": "arXiv",
+      "description": "Imitation Learning (IL) enables agents to mimic expert behavior by learning from demonstrations. However, traditional IL methods require large amounts of medium-to-high-quality demonstrations as well as actions of expert demonstrations, both of which are often unavailable. To reduce this need, we propose Latent Wasserstein Adversarial Imitation Learning (LWAIL), a novel adversarial imitation learning framework that focuses on state-only distribution matching. It benefits from the Wasserstein dis",
+      "publishedAt": "2026-03-05T18:01:49Z"
+    },
+    {
+      "title": "Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model",
+      "url": "http://arxiv.org/abs/2603.05438v1",
+      "source": "arXiv",
+      "description": "World models provide a powerful framework for simulating environment dynamics conditioned on actions or instructions, enabling downstream tasks such as action planning or policy learning. Recent approaches leverage world models as learned simulators, but its application to decision-time planning remains computationally prohibitive for real-time control. A key bottleneck lies in latent representations: conventional tokenizers encode each observation into hundreds of tokens, making planning both s",
+      "publishedAt": "2026-03-05T18:00:02Z"
+    },
+    {
+      "title": "SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning",
+      "url": "http://arxiv.org/abs/2603.05437v1",
+      "source": "arXiv",
+      "description": "Weakly-Supervised Dense Video Captioning aims to localize and describe events in videos trained only on caption annotations, without temporal boundaries. Prior work introduced an implicit supervision paradigm based on Gaussian masking and complementary captioning. However, existing method focuses merely on generating non-overlapping masks without considering their semantic relationship to corresponding events, resulting in simplistic, uniformly distributed masks that fail to capture semantically",
+      "publishedAt": "2026-03-05T17:59:58Z"
+    },
+    {
+      "title": "On-Policy Self-Distillation for Reasoning Compression",
+      "url": "http://arxiv.org/abs/2603.05433v1",
+      "source": "arXiv",
+      "description": "Reasoning models think out loud, but much of what they say is noise. We introduce OPSDC (On-Policy Self-Distillation for Reasoning Compression), a method that teaches models to reason more concisely by distilling their own concise behavior back into themselves. The entire approach reduces to one idea: condition the same model on a \"be concise\" instruction to obtain teacher logits, and minimize per-token reverse KL on the student's own rollouts. No ground-truth answers, no token budgets, no diffi",
+      "publishedAt": "2026-03-05T17:54:40Z"
+    },
+    {
+      "title": "Ensembling Language Models with Sequential Monte Carlo",
+      "url": "http://arxiv.org/abs/2603.05432v1",
+      "source": "arXiv",
+      "description": "Practitioners have access to an abundance of language models and prompting strategies for solving many language modeling tasks; yet prior work shows that modeling performance is highly sensitive to both choices. Classical machine learning ensembling techniques offer a principled approach: aggregate predictions from multiple sources to achieve better performance than any single one. However, applying ensembling to language models during decoding is challenging: naively aggregating next-token prob",
+      "publishedAt": "2026-03-05T17:54:31Z"
+    },
+    {
+      "title": "RelaxFlow: Text-Driven Amodal 3D Generation",
+      "url": "http://arxiv.org/abs/2603.05425v1",
+      "source": "arXiv",
+      "description": "Image-to-3D generation faces inherent semantic ambiguity under occlusion, where partial observation alone is often insufficient to determine object category. In this work, we formalize text-driven amodal 3D generation, where text prompts steer the completion of unseen regions while strictly preserving input observation. Crucially, we identify that these objectives demand distinct control granularities: rigid control for the observation versus relaxed structural control for the prompt. To this en",
+      "publishedAt": "2026-03-05T17:45:47Z"
+    },
+    {
+      "title": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "source": "GitHub Trending",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "score": 13899
+    },
+    {
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "source": "GitHub Trending",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "score": 6527
+    },
+    {
+      "title": "shadcn-ui/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "source": "GitHub Trending",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "score": 108448
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub Trending",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "score": 279133
+    },
+    {
+      "title": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "source": "GitHub Trending",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "score": 64969
+    },
+    {
+      "title": "Ed1s0nZ/CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "source": "GitHub Trending",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "score": 2091
+    },
+    {
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "source": "GitHub Trending",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "score": 23627
+    },
+    {
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "source": "GitHub Trending",
+      "description": "Skills Catalog for Codex",
+      "score": 13035
+    },
+    {
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "source": "GitHub Trending",
+      "description": "An AI Hedge Fund Team",
+      "score": 46723
+    },
+    {
+      "title": "is-a-dev/register",
+      "url": "https://github.com/is-a-dev/register",
+      "source": "GitHub Trending",
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "score": 9676
+    },
+    {
+      "title": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "source": "GitHub Trending",
+      "description": "Unofficial Python API for Google NotebookLM",
+      "score": 3556
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending",
+      "description": "The design language that makes your AI harness better at design.",
+      "score": 1364
+    },
+    {
+      "title": "Evaluating Skills",
+      "url": "https://blog.langchain.com/evaluating-skills/",
+      "source": "LangChain Blog",
+      "description": "By Robert Xu\nRecently at LangChain we’ve been building skills to help coding agents like Codex, Claude Code, and Deep Agents CLI work with our ecosystem: namely, LangChain and LangSmith. This is not an effort unique to us - most (if not all) companies are exploring how to",
+      "publishedAt": "2026-03-05T18:00:49.000Z"
+    },
+    {
+      "title": "LangSmith CLI & Skills",
+      "url": "https://blog.langchain.com/langsmith-cli-skills/",
+      "source": "LangChain Blog",
+      "description": "We’re releasing a CLI along with our first set of skills to give AI coding agents expertise in the LangSmith ecosystem. This includes adding tracing to agents, understanding their execution, building test sets, and evaluating performance. On our eval set, this bumps Claude Code’s performance on",
+      "publishedAt": "2026-03-04T18:00:31.000Z"
+    },
+    {
+      "title": "LangChain Skills",
+      "url": "https://blog.langchain.com/langchain-skills/",
+      "source": "LangChain Blog",
+      "description": "We’re releasing our first set of skills to give AI coding agents expertise in the open source LangChain ecosystem. This includes building agents with LangChain, LangGraph, and Deep Agents. On our eval set, this bumps Claude Code’s performance on these tasks from 29% to 95%.\nWhat",
+      "publishedAt": "2026-03-04T18:00:19.000Z"
+    },
+    {
+      "title": "You don’t know what your agent will do until it’s in production",
+      "url": "https://blog.langchain.com/you-dont-know-what-your-agent-will-do-until-its-in-production/",
+      "source": "LangChain Blog",
+      "description": "You can't monitor agents like traditional software. Inputs are infinite, behavior is non-deterministic, and quality lives in the conversations themselves. This article explains what to monitor, how to scale evaluation, and how production traces become the foundation for continuous improvement.",
+      "publishedAt": "2026-02-26T04:28:00.000Z"
+    },
+    {
+      "title": "How we built Agent Builder’s memory system",
+      "url": "https://blog.langchain.com/how-we-built-agent-builders-memory-system/",
+      "source": "LangChain Blog",
+      "description": "A key part of Agent Builder is its memory system. In this article we cover our rationale for prioritizing a memory system, technical details of how we built it, learnings from building the memory system, what the memory system enables, and discuss future work.",
+      "publishedAt": "2026-02-22T03:55:36.000Z"
+    },
+    {
+      "title": "Agent Observability Powers Agent Evaluation",
+      "url": "https://blog.langchain.com/agent-observability-powers-agent-evaluation/",
+      "source": "LangChain Blog",
+      "description": "You can't build reliable agents without understanding how they reason, and you can't validate improvements without systematic evaluation.",
+      "publishedAt": "2026-02-22T03:51:44.000Z"
+    },
+    {
+      "title": "How to Use Memory in Agent Builder",
+      "url": "https://blog.langchain.com/how-to-use-memory-in-agent-builder/",
+      "source": "LangChain Blog",
+      "description": "By Jacob Talbot\nAgent Builder gets better the more you use it because it remembers your feedback. Every correction you make, preference you share, and approach that works well is something that your agent can hold onto and apply the next time.\nMemory is one of the things that makes",
+      "publishedAt": "2026-02-19T18:28:14.000Z"
+    },
+    {
+      "title": "New in Agent Builder: all new agent chat, file uploads + tool registry",
+      "url": "https://blog.langchain.com/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry/",
+      "source": "LangChain Blog",
+      "description": "Today, we're expanding what you can do with LangSmith Agent Builder. It’s an big update built around a simple idea: working with an agent should feel like working with a teammate.\nWe rebuilt Agent Builder around this idea. There is now an always available agent (”",
+      "publishedAt": "2026-02-18T15:55:08.000Z"
+    },
+    {
+      "title": "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1",
+      "url": "https://blog.langchain.com/customers-monday/",
+      "source": "LangChain Blog",
+      "description": "Learn how monday Service developed an eval-driven development framework for their customer-facing service agents.",
+      "publishedAt": "2026-02-18T08:05:53.000Z"
+    },
+    {
+      "title": "Improving Deep Agents with harness engineering",
+      "url": "https://blog.langchain.com/improving-deep-agents-with-harness-engineering/",
+      "source": "LangChain Blog",
+      "description": "TLDR: Our coding agent went from Top 30 to Top 5 on Terminal Bench 2.0. We only changed the harness. Here’s our approach to harness engineering (teaser: self-verification & tracing help a lot).\nThe Goal of Harness Engineering\nThe goal of a harness is to mold the",
+      "publishedAt": "2026-02-17T16:15:28.000Z"
+    },
+    {
+      "title": "On Agent Frameworks and Agent Observability",
+      "url": "https://blog.langchain.com/on-agent-frameworks-and-agent-observability/",
+      "source": "LangChain Blog",
+      "description": "Every time LLMs get better, the same question comes back: \"Do you still need an agent framework?\" It's a fair question. The best way to build agents changes as the models get more performant and evolve, but fundamentally, the agent is a system around the model,",
+      "publishedAt": "2026-02-13T02:23:40.000Z"
+    },
+    {
+      "title": "Join us for Interrupt: The Agent Conference",
+      "url": "https://blog.langchain.com/join-us-for-interrupt-the-agent-conference/",
+      "source": "LangChain Blog",
+      "description": "Interrupt - The Agent Conference by LangChain - is where builders come to learn what's actually working in production. This year, we're bringing together more than 1,000 developers, product leaders, researchers, and founders to share what's coming next for agents—and how",
+      "publishedAt": "2026-02-12T17:42:03.000Z"
+    },
+    {
+      "title": "The two patterns by which agents connect sandboxes",
+      "url": "https://blog.langchain.com/the-two-patterns-by-which-agents-connect-sandboxes/",
+      "source": "LangChain Blog",
+      "description": "Thank you to Nuno Campos from Witan Labs, Tomas Beran and Mikayel Harutyunyan from E2B, Jonathan Wall from Runloop, and Ben Guo from Zo Computer for their review and comments.\nTL;DR:\n\nMore and more agents need a workspace: a computer where they can run code, install packages, and access",
+      "publishedAt": "2026-02-10T16:32:35.000Z"
+    },
+    {
+      "title": "LangSmith is Now Available in Google Cloud Marketplace",
+      "url": "https://blog.langchain.com/langsmith-is-now-available-in-google-cloud-marketplace/",
+      "source": "LangChain Blog",
+      "description": "Today, we're thrilled to announce that LangSmith, the agent engineering platform from LangChain, is available in Google Cloud Marketplace. Google Cloud customers can now procure LangSmith through their existing Google Cloud accounts, enabling seamless billing, simplified procurement, and the ability to draw down on existing Google Cloud commitments.",
+      "publishedAt": "2026-02-10T02:47:44.000Z"
+    },
+    {
+      "title": "January 2026: LangChain Newsletter",
+      "url": "https://blog.langchain.com/january-2026-langchain-newsletter/",
+      "source": "LangChain Blog",
+      "description": "Read about the latest product updates, events, and content from the LangChain team",
+      "publishedAt": "2026-01-30T02:27:28.000Z"
+    },
+    {
+      "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
+      "url": "https://www.ycombinator.com/blog/adding-canada-back/",
+      "source": "Y Combinator Blog",
+      "description": "After hearing feedback from Canadian founders in our network, we are adding Canada back to our list of accepted countries of incorporation.",
+      "publishedAt": "2026-02-05T17:00:00.000Z"
+    },
+    {
+      "title": "Congratulations to EquipmentShare on Going Public",
+      "url": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare/",
+      "source": "Y Combinator Blog",
+      "description": "Today, EquipmentShare (YC W15) goes public. From Missouri to 373 locations nationwide, they've built the operating system construction has been missing—built by contractors, for contractors. Congrats to Jabbok, Willy, and the EquipmentShare team on a huge milestone.",
+      "publishedAt": "2026-01-23T15:59:00.000Z"
+    },
+    {
+      "title": "Announcing the YC AI Stack",
+      "url": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/",
+      "source": "Y Combinator Blog",
+      "description": "We've partnered with nearly two dozen companies to offer students who attend YC events a suite of over $25,000 in free credits for AI devtools.",
+      "publishedAt": "2026-01-16T20:40:39.000Z"
+    },
+    {
+      "title": "2026 Demo Day Dates",
+      "url": "https://www.ycombinator.com/blog/2026-demo-days/",
+      "source": "Y Combinator Blog",
+      "description": "We’re excited to share the Demo Day dates for 2026 so founders, investors, and our broader community can plan ahead.",
+      "publishedAt": "2025-12-18T19:44:54.000Z"
+    },
+    {
+      "title": "Meesho Goes Public",
+      "url": "https://www.ycombinator.com/blog/meesho-goes-public/",
+      "source": "Y Combinator Blog",
+      "description": "Meesho goes public today. From S16 to IPO, they’ve built one of India’s largest e-commerce platforms—empowering millions of small merchants to grow their businesses.\n\nCongrats to Vidit and Sanjeev on a decade of relentless building and listening to users!",
+      "publishedAt": "2025-12-10T04:32:10.000Z"
+    },
+    {
+      "title": "Congratulations to Groww",
+      "url": "https://www.ycombinator.com/blog/groww/",
+      "source": "Y Combinator Blog",
+      "description": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud.",
+      "publishedAt": "2025-11-12T03:47:51.000Z"
+    },
+    {
+      "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
+      "url": "https://www.ycombinator.com/blog/billiontoone/",
+      "source": "Y Combinator Blog",
+      "description": "Today, BillionToOne goes public, becoming YC's fourth publicly traded biotech company. More importantly, they have built one of the most important genetic tests in the U.S. Today, 1 in 11 babies born in the US are tested with BillionToOne's fetal genetic test.",
+      "publishedAt": "2025-11-06T15:52:00.000Z"
+    },
+    {
+      "title": "Meet YC's Newest Visiting Partners",
+      "url": "https://www.ycombinator.com/blog/ycs-newest-visiting-partners/",
+      "source": "Y Combinator Blog",
+      "description": "We're excited to announce that nine exceptional founders are joining us as Visiting Partners at YC: Matt Riley, Harshita Arora, Grey Baker, Christopher Golda, Raphael Schaad, Christina Gilbert, Francois Chaubard, Vivian Shen, and James Evans.",
+      "publishedAt": "2025-10-14T17:17:44.000Z"
+    },
+    {
+      "title": "YC x Coinbase RFS: Build Onchain",
+      "url": "https://www.ycombinator.com/blog/build-onchain/",
+      "source": "Y Combinator Blog",
+      "description": "We are entering the era of Fintech 3.0.\n\nRegulatory clarity, growing consumer adoption, and low-cost chains have paved the way for a golden age of building in crypto — and at YC, Base, and Coinbase, we want to fund builders to seize this moment.",
+      "publishedAt": "2025-09-23T15:00:58.000Z"
+    },
+    {
+      "title": "Ankit Gupta Joins YC as General Partner, Bringing Deep ML Expertise",
+      "url": "https://www.ycombinator.com/blog/welcome-ankit/",
+      "source": "Y Combinator Blog",
+      "description": "We’re thrilled to announce that Ankit Gupta is joining YC as our newest General Partner.\nAnkit has already worked with dozens of YC founders as a visiting partner in recent batches. He has a rare blend of deep machine learning expertise and firsthand startup experience that make him",
+      "publishedAt": "2025-09-12T16:00:00.000Z"
+    },
+    {
+      "title": "Dalton Caldwell’s Move to Partner Emeritus",
+      "url": "https://www.ycombinator.com/blog/dalton-caldwell-partner-emeritus/",
+      "source": "Y Combinator Blog",
+      "description": "After 12+ years, 25 batches, and working with more than a thousand startups, Dalton Caldwell is transitioning to Partner Emeritus at YC.\nDalton joined YC in 2011 and has contributed in a number of roles over the years, most recently as a Managing Partner. During his time here, he worked",
+      "publishedAt": "2025-06-12T18:36:17.000Z"
+    },
+    {
+      "title": "Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners",
+      "url": "https://www.ycombinator.com/blog/welcome-jon-and-andrew/",
+      "source": "Y Combinator Blog",
+      "description": "Over the last few batches, visiting partners Jon Xu and Andrew Miklas have become two of the most trusted voices in the YC community. They were both founders in YC’s Summer 2010 batch, and now, 15 years and two industry-shaping companies later, they’re back in a new role: General Partners at YC.",
+      "publishedAt": "2025-05-21T15:00:00.000Z"
+    },
+    {
+      "title": "Tyler Bosmeny built Clever into a $500M company–now he’s helping YC founders do the same as General Partner",
+      "url": "https://www.ycombinator.com/blog/welcome-tyler/",
+      "source": "Y Combinator Blog",
+      "description": "We’re thrilled to welcome Tyler Bosmeny back to YC, this time as a General Partner.",
+      "publishedAt": "2025-04-01T16:00:00.000Z"
+    },
+    {
+      "title": "Michael Seibel's Legacy Continues at YC: Transition to Partner Emeritus",
+      "url": "https://www.ycombinator.com/blog/michael-seibel-partner-emeritus/",
+      "source": "Y Combinator Blog",
+      "description": "If you’ve been around YC, you know Michael Seibel has been a huge part of it for over a decade. He’s done it all - YC Founder (w07, w12), Group Partner, and Managing Director/CEO of the YC accelerator. Along the way, he’s helped",
+      "publishedAt": "2025-03-20T00:00:00.000Z"
+    },
+    {
+      "title": "East Coast College Tour 2025",
+      "url": "https://www.ycombinator.com/blog/east-coast-college-tour-2025/",
+      "source": "Y Combinator Blog",
+      "description": "YC is going on a college tour! We're visiting Harvard, Yale, MIT, Columbia, Cornell, and Cornell Tech. \n\nIf you're a current student at any of those schools and interested in startups, we'd love to meet you.",
+      "publishedAt": "2025-03-13T21:26:20.000Z"
+    },
+    {
+      "title": "GPT-5.4 🤖, Anthropic's leaked memo 📝, Claude Code auto mode 🧑‍💻",
+      "url": "https://tldr.tech/tech/2026-03-06",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "title": "MacBook Neo 💻, Google Workspace CLI 🧑‍💻, AI's bear case 🤖",
+      "url": "https://tldr.tech/tech/2026-03-05",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-05T00:00:00.000Z"
+    },
+    {
+      "title": "M5 Max MacBooks 💻, GPT-5.3 Instant 🤖, end of code reviews 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-03-04",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-04T00:00:00.000Z"
+    },
+    {
+      "title": "iPhone 17e 📱, SpaceX tower catch plan 🚀, how to save SaaS 💼`",
+      "url": "https://tldr.tech/tech/2026-03-03",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-03T00:00:00.000Z"
+    },
+    {
+      "title": "Anthropic vs Pentagon 🤖, SpaceX eyes March IPO 💰, lessons building Claude Code 🧑‍💻 ",
+      "url": "https://tldr.tech/tech/2026-03-02",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-03-02T00:00:00.000Z"
+    },
+    {
+      "title": "Nano Banana 2 🍌, Netflix loses WB bid 🎬, Block's AI layoff 💼",
+      "url": "https://tldr.tech/tech/2026-02-27",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-27T00:00:00.000Z"
+    },
+    {
+      "title": "Jane Street vs Bitcoin 🪙, AGI career decisions 💼, Vercel Chat SDK 🤖",
+      "url": "https://tldr.tech/tech/2026-02-26",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-26T00:00:00.000Z"
+    },
+    {
+      "title": "Meta's $100B deal 💰, Pentagon threatens Anthropic 🏛️, chinese vibe coders 🧑‍💻",
+      "url": "https://tldr.tech/tech/2026-02-25",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-25T00:00:00.000Z"
+    },
+    {
+      "title": "Anthropic data harvested 🤖, AI memo crashes stocks 📉, don't quit your job 💼",
+      "url": "https://tldr.tech/tech/2026-02-24",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-24T00:00:00.000Z"
+    },
+    {
+      "title": "OpenAI's smart speaker 📢, Apple visual intelligence 👀, Code Mode 🧑‍💻",
+      "url": "https://tldr.tech/tech/2026-02-23",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-23T00:00:00.000Z"
+    },
+    {
+      "title": "Gemini 3.1 Pro 🤖, OpenAI's strategic issues 💡, building AI eng culture 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-02-20",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-20T00:00:00.000Z"
+    },
+    {
+      "title": "Meta smartwatch ⌚, Zuckerberg testifies ⚖️, GitHub Agentic Workflows 🤖",
+      "url": "https://tldr.tech/tech/2026-02-19",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-19T00:00:00.000Z"
+    },
+    {
+      "title": "Apple wearables 👓, Tesla's first Cybercab 🚕, state of coding agents 🧑‍💻",
+      "url": "https://tldr.tech/tech/2026-02-18",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-18T00:00:00.000Z"
+    },
+    {
+      "title": "SpaceX drone swarms 🚁, Apple video podcasts 📱, AI isn't a bubble 🤖",
+      "url": "https://tldr.tech/tech/2026-02-17",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-17T00:00:00.000Z"
+    },
+    {
+      "title": "OpenAI hires OpenClaw dev 🦞, ByteDance AI video 📱, cognitive debt 🧠",
+      "url": "https://tldr.tech/tech/2026-02-16",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-16T00:00:00.000Z"
+    },
+    {
+      "title": "Anthropic's growth 📈, Waymo's new taxi 🚕, OpenAI's ultra-fast Codex 🤖",
+      "url": "https://tldr.tech/tech/2026-02-13",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-13T00:00:00.000Z"
+    },
+    {
+      "title": "xAI public all hands 🤖, inside Siri revamp 📱, AI changing everything 🌍  ",
+      "url": "https://tldr.tech/tech/2026-02-12",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-12T00:00:00.000Z"
+    },
+    {
+      "title": "Elon's moon factory 🚀, Chrome WebMCP 🤖, Stripe minions 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-02-11",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-11T00:00:00.000Z"
+    },
+    {
+      "title": "ChatGPT growth leaks 📈, rise of Reddit search 🔍, Opus 4.6 vs Codex 5.3 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-02-10",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-10T00:00:00.000Z"
+    },
+    {
+      "title": "SpaceX prioritizes moon 🚀, Anthropic's hivemind 🤖, software factories 👨‍💻",
+      "url": "https://tldr.tech/tech/2026-02-09",
+      "source": "TLDR Tech",
+      "publishedAt": "2026-02-09T00:00:00.000Z"
+    }
+  ]
+}
